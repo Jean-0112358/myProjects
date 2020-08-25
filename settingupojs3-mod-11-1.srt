@@ -1,0 +1,373 @@
+1
+00:00:03,920 --> 00:00:10,490
+Hello, welcome to module 11 of setting up a journal with OJs 3.0 users and roles.
+
+2
+00:00:10,490 --> 00:00:15,060
+As a journal manager, you're able to
+manage user accounts that have been
+
+3
+00:00:15,060 --> 00:00:19,439
+created for your journal including
+creating new accounts, merging accounts,
+
+4
+00:00:19,439 --> 00:00:26,400
+adjusting roles, adjusting permissions
+and removing accounts. This module has
+
+5
+00:00:26,400 --> 00:00:33,359
+been divided into three units. This video
+is unit 1 users. To access users and
+
+6
+00:00:33,359 --> 00:00:38,539
+roles, login to your dashboard at the top
+right corner of your home page.
+
+7
+00:00:41,370 --> 00:00:45,870
+In the left navigation, hover over users
+unrolls
+
+8
+00:00:45,870 --> 00:00:49,070
+and select users.
+
+9
+00:00:50,700 --> 00:00:54,960
+This page is a table of all of the user
+accounts that have been created for your
+
+10
+00:00:54,960 --> 00:01:00,000
+journal. It lists the basic information
+of first and last names, user names and
+
+11
+00:01:00,000 --> 00:01:04,860
+email addresses. If you're looking for a
+specific user, you can use the search
+
+12
+00:01:04,860 --> 00:01:11,520
+feature. This allows you to look up a
+user using any of these details. You can
+
+13
+00:01:11,520 --> 00:01:16,940
+also limit the search based on the roles
+associated with the accounts.
+
+14
+00:01:18,860 --> 00:01:23,810
+Roles will be discussed in more detail
+in unit 2 of this module. Beside the
+
+15
+00:01:23,810 --> 00:01:27,730
+search bar is an add user button.
+
+16
+00:01:28,680 --> 00:01:34,000
+Clicking on this opens a wizard to
+create a new user account. The mandatory
+
+17
+00:01:34,000 --> 00:01:38,229
+fields are the same mandatory fields we
+set when creating our personal user
+
+18
+00:01:38,229 --> 00:01:43,460
+accounts back in module 4 registering
+and logging in.
+
+19
+00:01:54,660 --> 00:01:58,020
+I'll see administrator creating an
+account on behalf of the user.
+
+20
+00:01:58,020 --> 00:02:02,800
+You have the option to generate a random
+password for this user as well as to
+
+21
+00:02:02,800 --> 00:02:07,600
+indicate that the user must change their
+password upon their next login. You can
+
+22
+00:02:07,600 --> 00:02:12,640
+also elect to send the new user a
+welcome email. Under more user details
+
+23
+00:02:12,640 --> 00:02:17,160
+you'll find optional user profile
+details.
+
+24
+00:02:20,319 --> 00:02:27,049
+When you finish the form, click okay.
+Whe wizard will then update and prompt
+
+25
+00:02:27,049 --> 00:02:31,250
+you to attach rules to this new account.
+Different roles come with different
+
+26
+00:02:31,250 --> 00:02:35,390
+permissions and assigning or removing
+them will change what dashboard elements
+
+27
+00:02:35,390 --> 00:02:39,590
+the user has access to and what tasks
+within the editorial and publishing
+
+28
+00:02:39,590 --> 00:02:45,680
+process can be assigned to this user. To
+add a role, click add role and select the
+
+29
+00:02:45,680 --> 00:02:49,540
+appropriate role from the drop down menu.
+
+30
+00:02:59,300 --> 00:03:05,170
+When you've added all of the necessary
+roles, click OK.
+
+31
+00:03:06,050 --> 00:03:10,850
+Back on the users table, clicking on the
+expansion arrow beside the username
+
+32
+00:03:10,850 --> 00:03:16,400
+exposes several tools that can be used
+to manage the user account.
+
+33
+00:03:16,400 --> 00:03:21,500
+Firstly, you can click on the email
+button to open an email wizard if you
+
+34
+00:03:21,510 --> 00:03:24,580
+need to contact this user.
+
+35
+00:03:25,750 --> 00:03:31,129
+Simply enter the subject and body and
+then click send. You'll note that the two
+
+36
+00:03:31,129 --> 00:03:37,460
+fields populates automatically with the
+email address stored in the user account.
+
+37
+00:03:37,460 --> 00:03:43,140
+Secondly you can edit the user account
+by clicking on the edit button.
+
+38
+00:03:45,020 --> 00:03:49,470
+You're able to make changes to the
+person's name, contact information and
+
+39
+00:03:49,470 --> 00:03:52,190
+password.
+
+40
+00:03:52,430 --> 00:03:56,780
+If you're setting a temporary password
+for them, you can indicate that the user
+
+41
+00:03:56,780 --> 00:04:00,950
+must change their password on their next
+login. You can additionally make changes
+
+42
+00:04:00,950 --> 00:04:06,970
+to their country and if you click on the
+more user details expansion button,
+
+43
+00:04:08,530 --> 00:04:13,240
+you can also change nearly all the
+details we adjusted while setting up our
+
+44
+00:04:13,240 --> 00:04:18,700
+personal user accounts back in module 6
+user profile. As the journal manager, you
+
+45
+00:04:18,700 --> 00:04:24,389
+have the capability to access and change
+all registered user profiles.
+
+46
+00:04:25,629 --> 00:04:31,009
+Following, you'll be able to see, and if
+necessary, adjust the roles associated
+
+47
+00:04:31,009 --> 00:04:36,530
+with this account. To remove a role, click
+on the X beside the role designation in
+
+48
+00:04:36,530 --> 00:04:39,699
+the right corner of the row.
+
+49
+00:04:41,110 --> 00:04:47,030
+To add a roll, click on add roll at the
+top of the box. Using the drop down menu,
+
+50
+00:04:47,030 --> 00:04:51,770
+select the roll you wish to add from the
+available options. Enabling the
+
+51
+00:04:51,770 --> 00:04:56,270
+appropriate rolls activates the account
+to be assigned to certain tasks in other
+
+52
+00:04:56,270 --> 00:05:01,940
+areas of the journal such as section
+editors or reviewers. When you've
+
+53
+00:05:01,940 --> 00:05:05,860
+completed your edits click OK.
+
+54
+00:05:08,650 --> 00:05:12,880
+From the same list of expanded
+management options, you're able to both
+
+55
+00:05:12,880 --> 00:05:17,370
+disable or fully remove a user account.
+
+56
+00:05:17,860 --> 00:05:22,670
+Disabling the user will open a prompt to
+requesting the reason. Enter an
+
+57
+00:05:22,670 --> 00:05:28,790
+appropriate explanation and click OK. On
+a disabled user, the expanded menu shows
+
+58
+00:05:28,790 --> 00:05:34,040
+an enable button instead of a disabled
+one. Click on it to re-enable the user,
+
+59
+00:05:34,040 --> 00:05:38,800
+entering the reason once more and
+clicking OK.
+
+60
+00:05:39,040 --> 00:05:45,040
+To remove a user, click remove and then
+confirm the action. When you're logged in
+
+61
+00:05:45,040 --> 00:05:48,790
+as a journal manager and view an account that is not your own, you have the
+
+62
+00:05:48,790 --> 00:05:54,400
+ability to log in as that user. This
+feature allows you to complete actions
+
+63
+00:05:54,400 --> 00:05:58,470
+on behalf of that user as well as to
+view the site through their roles.
+
+64
+00:05:58,470 --> 00:06:03,760
+Finally, you're able to merge accounts.
+This feature is useful if a user
+
+65
+00:06:03,760 --> 00:06:08,410
+accidentally creates more than one
+account among other reasons. To merge
+
+66
+00:06:08,410 --> 00:06:12,600
+accounts, click on the merge user button.
+
+67
+00:06:14,100 --> 00:06:17,920
+You will be asked to confirm that you
+wish to merge this account with another.
+
+68
+00:06:17,920 --> 00:06:24,340
+Click OK.
+The wizard will close as the page refreshes.
+
+69
+00:06:25,800 --> 00:06:31,210
+The account you are merging no longer
+has a merge button and if you click on
+
+70
+00:06:31,210 --> 00:06:35,130
+the expansion arrow beside a second
+account,
+
+71
+00:06:35,140 --> 00:06:40,850
+you'll see that the merge button has
+changed into merge into this user. The
+
+72
+00:06:40,850 --> 00:06:44,510
+account we select first is the account
+that will be sublimated, while the account
+
+73
+00:06:44,510 --> 00:06:48,620
+that we select second will become the
+permanent account. To complete the
+
+74
+00:06:48,620 --> 00:06:53,590
+account merge, click on merge into this
+user
+
+75
+00:06:53,840 --> 00:06:57,460
+and confirm.
+
+76
+00:06:59,300 --> 00:07:04,790
+And that concludes our overview of the
+user section of users and roles. Thanks
+
+77
+00:07:04,790 --> 00:07:08,710
+for watching and we'll see you again in
+the next module.
+

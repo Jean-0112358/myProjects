@@ -1,0 +1,175 @@
+1
+00:00:04,819 --> 00:00:08,730
+Hello, welcome back to Setting Up a Journal
+with OJS 3.0.
+
+2
+00:00:08,730 --> 00:00:12,700
+This is module 2, Background on the Public
+Knowledge Project and on the Open Journal
+
+3
+00:00:12,700 --> 00:00:14,360
+System.
+
+4
+00:00:14,360 --> 00:00:17,560
+As you work through the course, this material
+will help you understand a little bit more
+
+5
+00:00:17,560 --> 00:00:22,000
+about what we're about and some of the things
+we're working on.
+
+6
+00:00:22,000 --> 00:00:28,699
+PKP was founded in 1998 by Dr. John Willinsky,
+then a professor at the University of British
+
+7
+00:00:28,699 --> 00:00:30,600
+Columbia in Canada.
+
+8
+00:00:30,600 --> 00:00:35,120
+It continues to this day as a non-profit,
+university-based initiative doing research
+
+9
+00:00:35,120 --> 00:00:40,010
+and development in scholarly publishing, with
+its research home base at Stanford University
+
+10
+00:00:40,010 --> 00:00:44,230
+in the United States and its operations and
+software development home at the Simon Fraser
+
+11
+00:00:44,230 --> 00:00:48,190
+University Library in Canada.
+
+12
+00:00:48,190 --> 00:00:52,460
+From the beginning, Dr. Willinsky was researching
+how to better connect the general public to
+
+13
+00:00:52,460 --> 00:00:57,050
+the knowledge that is created at universities,
+and quickly realized that online articles
+
+14
+00:00:57,050 --> 00:01:00,519
+are not freely available without library access.
+
+15
+00:01:00,519 --> 00:01:06,020
+This made demonstrating the value of university
+research to the public very difficult.
+
+16
+00:01:06,020 --> 00:01:11,940
+As a result, in 2001, he created Open Journal
+Systems as free, open source software for
+
+17
+00:01:11,940 --> 00:01:14,090
+publishing journals.
+
+18
+00:01:14,090 --> 00:01:19,100
+The goal was to build a software application
+that would make publishing articles so efficient,
+
+19
+00:01:19,100 --> 00:01:24,340
+that they could be shared for free, among
+researchers, but also with the general public.
+
+20
+00:01:24,340 --> 00:01:28,430
+If you aren't familiar with the unique characteristics
+of open source software, we've included some
+
+21
+00:01:28,430 --> 00:01:31,890
+material in the readings to provide some further
+information.
+
+22
+00:01:31,890 --> 00:01:37,689
+Basically, it is software that is free to
+download, use, and revise for everyone.
+
+23
+00:01:37,689 --> 00:01:42,210
+OJS provides a web site for a journal, as
+well as a system for online submissions, peer
+
+24
+00:01:42,210 --> 00:01:44,800
+review, editing, and publishing.
+
+25
+00:01:44,800 --> 00:01:49,420
+It keeps track of every step of the workflow,
+provides automatic notifications and email-based
+
+26
+00:01:49,420 --> 00:01:54,010
+communication, and interoperates with many
+other publishing systems, such as LOCKSS for
+
+27
+00:01:54,010 --> 00:01:59,840
+digital preservation, Crossref for Digital
+Object Identifiers, Dataverse for data management,
+
+28
+00:01:59,840 --> 00:02:03,930
+ORCID for author identifiers, and more.
+
+29
+00:02:03,930 --> 00:02:10,860
+As of 2016, over 10,000 journals from over
+100 countries now use OJS for publishing,
+
+30
+00:02:10,860 --> 00:02:13,480
+almost all of which are open access.
+
+31
+00:02:13,480 --> 00:02:19,440
+OJS has been translated into multiple languages,
+and many OJS journals are hosted at academic
+
+32
+00:02:19,440 --> 00:02:20,820
+libraries.
+
+33
+00:02:20,820 --> 00:02:27,430
+PKP recently released version 3.0, the latest
+and most advanced version of the software.
+
+34
+00:02:27,430 --> 00:02:31,169
+This course will be focused on this new version
+of OJS.
+
+35
+00:02:31,169 --> 00:02:36,760
+For more background on PKP and OJS, check
+out the reading list in this module.
+
+36
+00:02:36,760 --> 00:02:41,500
+If you have any questions, please post them
+in the discussion area below.
+
+37
+00:02:41,500 --> 00:02:43,580
+Thanks for watching and see you again soon.
+

@@ -1,0 +1,119 @@
+1
+00:00:04,160 --> 00:00:09,240
+Hello, welcome back to module 7 of
+setting up your journal with OJS 3.0.
+
+2
+00:00:09,240 --> 00:00:15,030
+We're continuing with unit 2 of journal
+settings contact. This unit is where we
+
+3
+00:00:15,030 --> 00:00:18,090
+will set up the contact information for
+your journal. It's very straightforward
+
+4
+00:00:18,090 --> 00:00:25,020
+and will be very quick. Let's dive in. To
+edit the journals contact information,
+
+5
+00:00:25,020 --> 00:00:32,669
+begin on the home page. Access your
+dashboard, hover over settings and select
+
+6
+00:00:32,669 --> 00:00:41,010
+journal. Contact is the second tab along
+the top of the new page. In the contact
+
+7
+00:00:41,010 --> 00:00:45,030
+tab, we're going to input our journal
+contact information. The OJS system
+
+8
+00:00:45,030 --> 00:00:48,690
+requires a mailing address for the
+journal, the name and email address of
+
+9
+00:00:48,690 --> 00:00:51,990
+the journals principal contact and the
+name and email address of the journals
+
+10
+00:00:51,990 --> 00:00:56,489
+technical support contact. The mailing
+address has minimal formatting control
+
+11
+00:00:56,489 --> 00:00:59,850
+so you can write it out as one line or
+give it line breaks to help make the
+
+12
+00:00:59,850 --> 00:01:02,840
+information clearer.
+
+13
+00:01:03,539 --> 00:01:07,650
+The principal contact is the person at
+your journal who is responsible for
+
+14
+00:01:07,650 --> 00:01:11,759
+corresponding with your readers and
+potential authors. This is typically an
+
+15
+00:01:11,759 --> 00:01:16,100
+editor-in-chief, the assistant editor or
+another person with a title in your team.
+
+16
+00:01:16,100 --> 00:01:20,310
+Their name and email address are
+required information, but you can also
+
+17
+00:01:20,310 --> 00:01:27,450
+add their title, phone number and
+affiliation if you choose. The technical
+
+18
+00:01:27,450 --> 00:01:30,630
+support person is the person on your
+team that can help registered users
+
+19
+00:01:30,630 --> 00:01:34,950
+accomplish tasks within the OJS
+interface. Their role is about the system
+
+20
+00:01:34,950 --> 00:01:37,970
+and infrastructure rather than the
+intellectual content of the journal.
+
+21
+00:01:37,970 --> 00:01:42,270
+Enter their name and email address.
+Optionally, you can also add their phone
+
+22
+00:01:42,270 --> 00:01:51,330
+number. Be sure to click Save when you're
+done. This page populates the content in
+
+23
+00:01:51,330 --> 00:01:56,340
+the about contact section of your
+website. And that's it for this unit.
+
+24
+00:01:56,340 --> 00:02:00,229
+Thanks for watching, we'll see in the
+next one.
+

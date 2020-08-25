@@ -1,0 +1,134 @@
+1
+00:00:03,630 --> 00:00:09,250
+Hello, welcome back to module eight of
+setting up a journal with OJS 3.0. This
+
+2
+00:00:09,250 --> 00:00:14,590
+is unit four of website settings
+languages. OJS 3.0 supports many
+
+3
+00:00:14,590 --> 00:00:17,619
+different publication languages and in
+this unit I'll demonstrate how to
+
+4
+00:00:17,619 --> 00:00:23,019
+activate them. To access language
+settings and to your dashboard to the
+
+5
+00:00:23,019 --> 00:00:26,789
+top right hand corner of your journals
+homepage.
+
+6
+00:00:30,230 --> 00:00:36,730
+In the left-hand navigation, hover over
+settings and select website.
+
+7
+00:00:38,440 --> 00:00:43,630
+Languages is the fourth tab along the
+top of the page.
+
+8
+00:00:45,510 --> 00:00:50,150
+The default language included in the
+initial OJS installation is English.
+
+9
+00:00:50,150 --> 00:00:54,360
+Additional language packages must be
+downloaded from the OJS website and
+
+10
+00:00:54,360 --> 00:00:59,250
+installed into your existing OJS system
+by your site administrator. That work is
+
+11
+00:00:59,250 --> 00:01:03,360
+beyond the scope of this tutorial, but
+I'll quickly show you what you can do as
+
+12
+00:01:03,360 --> 00:01:08,250
+a journal manager once the language is
+installed. All languages that have been
+
+13
+00:01:08,250 --> 00:01:12,810
+installed will appear on this page the
+primary locale radio button allows you
+
+14
+00:01:12,810 --> 00:01:16,619
+to set the default language of your
+website. This is the language the page
+
+15
+00:01:16,619 --> 00:01:21,630
+appears in. UI stands for user interface
+and selecting this option allows your
+
+16
+00:01:21,630 --> 00:01:25,200
+visitors to choose this language over
+the default language when viewing your
+
+17
+00:01:25,200 --> 00:01:30,450
+webpage. If, for example, we had set
+Portuguese as the primary locale, but
+
+18
+00:01:30,450 --> 00:01:34,830
+left English enabled as a UI language,
+visitors to your website would be able
+
+19
+00:01:34,830 --> 00:01:40,440
+to toggle between the two languages.
+Submissions refers to the language of
+
+20
+00:01:40,440 --> 00:01:44,880
+the submission page. Having more than one language enabled will allow authors to
+
+21
+00:01:44,880 --> 00:01:50,099
+choose which language the submission
+page displays in. Forms refers to all the
+
+22
+00:01:50,099 --> 00:01:53,880
+different forms that are being used by
+different roles in the editorial process
+
+23
+00:01:53,880 --> 00:01:59,009
+to accomplish tasks. Enabling the
+language for forms will provide that
+
+24
+00:01:59,009 --> 00:02:04,440
+language option when using those forms.
+Anytime new languages get added to your
+
+25
+00:02:04,440 --> 00:02:08,340
+installation or if the language
+preferences of your journal change, you
+
+26
+00:02:08,340 --> 00:02:12,140
+can come back to this page at any time
+and adjust your settings and preferences.
+
+27
+00:02:12,140 --> 00:02:17,180
+Thanks for watching and we'll see you
+again in the next unit.
+

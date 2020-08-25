@@ -1,0 +1,83 @@
+1
+00:00:04,300 --> 00:00:09,440
+Welcome back to module eight of setting
+up a journal with OJS 3.0. This is unit
+
+2
+00:00:09,440 --> 00:00:13,309
+three of website settings
+archiving your website content. This unit
+
+3
+00:00:13,309 --> 00:00:19,550
+is very quick so let's just dive right
+in. On your website access your dashboard
+
+4
+00:00:19,550 --> 00:00:23,380
+from the top right hand corner of the
+page.
+
+5
+00:00:24,699 --> 00:00:30,400
+Hover over settings from the left
+navigation and select website.
+
+6
+00:00:33,789 --> 00:00:39,160
+The third tab along the top of the page
+is archiving.
+
+7
+00:00:41,880 --> 00:00:47,440
+OJS 3.0 has embedded locks and clocks
+compatibility and if you wish to use
+
+8
+00:00:47,440 --> 00:00:50,350
+either of these networks to help with
+long-term preservation of your journal,
+
+9
+00:00:50,350 --> 00:00:55,540
+you can enable it here. Both systems
+require you to follow steps outside of
+
+10
+00:00:55,540 --> 00:00:59,890
+the OJS dashboard. Hyperlinks leading you to those outside communities and
+
+11
+00:00:59,890 --> 00:01:04,750
+instructions are provided here. All you
+have to do within the OJS dashboard is
+
+12
+00:01:04,750 --> 00:01:09,300
+tick the enabling boxes and click Save.
+
+13
+00:01:14,090 --> 00:01:18,509
+Remember this step alone does not enroll
+your journal in either the locks or
+
+14
+00:01:18,509 --> 00:01:22,500
+clocks networks, it just enables the
+networking within your journal. Be sure
+
+15
+00:01:22,500 --> 00:01:25,229
+to follow through on joining the
+preservation networks by clicking
+
+16
+00:01:25,229 --> 00:01:27,960
+through to their community websites and
+following their instructions and
+
+17
+00:01:27,960 --> 00:01:33,560
+guidelines. Thanks for watching, we'll see
+you back in the next unit.
+

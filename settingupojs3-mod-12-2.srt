@@ -1,0 +1,59 @@
+1
+00:00:04,270 --> 00:00:10,549
+Hello, welcome back to module 12 of
+setting up a journal with OJS 3.0 tools.
+
+2
+00:00:10,549 --> 00:00:16,190
+This is unit 2 statistics. The OJS 3.0
+system can be used to generate reports
+
+3
+00:00:16,190 --> 00:00:20,450
+that track site usage and submissions
+over a given period of time. To access
+
+4
+00:00:20,450 --> 00:00:24,110
+statistics, log in to your dashboard
+through the top right corner of your
+
+5
+00:00:24,110 --> 00:00:26,770
+journal home page.
+
+6
+00:00:28,340 --> 00:00:34,579
+Hover over tools in the left navigation
+and select statistics.
+
+7
+00:00:35,570 --> 00:00:40,640
+OJS 3.0 has four basic reports that
+you can export by clicking on the links.
+
+8
+00:00:40,640 --> 00:00:45,800
+To generate a custom report, click on the
+generate custom report button and follow
+
+9
+00:00:45,800 --> 00:00:51,379
+the prompts to tailor the report. The
+reports are generated in CSV format and
+
+10
+00:00:51,379 --> 00:00:56,059
+will require a spreadsheet application
+such as Excel, Google Docs or LibreOffice
+
+11
+00:00:56,059 --> 00:01:02,720
+to view and visualize. And that concludes
+our overview of the OJS 3.0 tools. Thanks
+
+12
+00:01:02,720 --> 00:01:06,729
+for watching and we'll see you again in
+the next unit.
+

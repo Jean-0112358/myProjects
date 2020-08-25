@@ -1,0 +1,129 @@
+1
+00:00:04,029 --> 00:00:08,720
+Welcome back to module nine of setting
+up a journal with OJS 3.0 workflow
+
+2
+00:00:08,720 --> 00:00:11,000
+settings.
+This is unit four of this module
+
+3
+00:00:11,000 --> 00:00:15,740
+publisher library. The publisher library
+provides a file repository for storing
+
+4
+00:00:15,740 --> 00:00:19,730
+and quickly sharing common files such as
+writing guidelines, author contracts,
+
+5
+00:00:19,730 --> 00:00:25,070
+release forms, marketing materials. Items
+that are stored in the publisher library
+
+6
+00:00:25,070 --> 00:00:29,540
+can be quickly retrieved and added into
+a submission library to be shared with
+
+7
+00:00:29,540 --> 00:00:33,680
+authors and assistants. To access the
+publisher library, we begin on the
+
+8
+00:00:33,680 --> 00:00:36,920
+journal homepage and then move into the
+dashboards through the login link in the top
+
+9
+00:00:36,920 --> 00:00:40,060
+right corner of the page.
+
+10
+00:00:42,789 --> 00:00:48,539
+Hover over settings in your left
+navigation and select workflow.
+
+11
+00:00:49,380 --> 00:00:54,100
+Publisher library is the fourth tab in
+the new frame.
+
+12
+00:00:54,100 --> 00:00:58,910
+At present, our publisher library is
+empty but you can see that the page has
+
+13
+00:00:58,910 --> 00:01:02,390
+some default categories that help
+organize and sort documents as they are
+
+14
+00:01:02,390 --> 00:01:09,310
+added. To add a document, click on add
+file in the top right corner of the box.
+
+15
+00:01:10,380 --> 00:01:15,079
+All three items in the wizard are
+required items. Begin by naming your file
+
+16
+00:01:15,079 --> 00:01:20,030
+simple but descriptive titles are
+recommended.
+
+17
+00:01:23,189 --> 00:01:28,210
+Next, choose the type which corresponds
+to the sorting categories we saw on the
+
+18
+00:01:28,210 --> 00:01:30,720
+landing page.
+
+19
+00:01:32,080 --> 00:01:36,800
+Finally attach a file by either
+dragging and dropping or clicking upload
+
+20
+00:01:36,800 --> 00:01:39,970
+file to open the wizard.
+
+21
+00:01:40,119 --> 00:01:44,369
+When finished, click okay.
+
+22
+00:01:44,370 --> 00:01:48,600
+You can now see the item has been added
+to the library. Clicking on the
+
+23
+00:01:48,600 --> 00:01:53,370
+hyperlinked title will download the file.
+Clicking on the expansion arrow exposes
+
+24
+00:01:53,370 --> 00:01:56,630
+the edit and delete button.
+
+25
+00:01:57,370 --> 00:02:02,230
+This page and its content can be edited
+at any time. And that concludes our
+
+26
+00:02:02,230 --> 00:02:06,160
+overview of the publisher library. Thanks
+for watching we'll see you again in the
+
+27
+00:02:06,160 --> 00:02:08,550
+next module.
+

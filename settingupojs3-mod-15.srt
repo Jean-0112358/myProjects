@@ -1,0 +1,154 @@
+1
+00:00:04,090 --> 00:00:10,280
+Hello welcome to module 15 of setting up
+a journal with OJS 3.0 custom blocks
+
+2
+00:00:10,280 --> 00:00:15,799
+with plugins. We covered content blocks
+initially in module 8 unit one website
+
+3
+00:00:15,799 --> 00:00:19,849
+appearance and talked specifically about
+the information content block in module
+
+4
+00:00:19,849 --> 00:00:24,619
+eight unit two. The content blocks are
+content elements that appear in the side
+
+5
+00:00:24,619 --> 00:00:29,720
+navigation menu on your journal web site.
+OJS 3.0 comes equipped with seven
+
+6
+00:00:29,720 --> 00:00:33,710
+different sidebar content blocks, but you
+can create custom blocks if you need
+
+7
+00:00:33,710 --> 00:00:39,230
+them by using the custom block plug-in.
+To activate this plugin login to the
+
+8
+00:00:39,230 --> 00:00:44,110
+dashboard using the link in the top
+right corner of your journal home page.
+
+9
+00:00:46,820 --> 00:00:52,750
+Hover over settings in the left hand
+navigation and select website.
+
+10
+00:00:54,030 --> 00:01:00,739
+In the new frame, click on plugins from
+the tabs along the top of the frame.
+
+11
+00:01:03,059 --> 00:01:07,619
+The custom block manager plugin is an
+installed plugin and it can be found on
+
+12
+00:01:07,619 --> 00:01:11,490
+this main page either by using the
+search bar, or by scrolling down to the
+
+13
+00:01:11,490 --> 00:01:15,259
+generic plugins until you see it.
+
+14
+00:01:22,810 --> 00:01:27,940
+To activate this plugin tick the box.
+
+15
+00:01:29,970 --> 00:01:35,190
+An expansion arrow will now be visible
+beside the name of the plugin. Click on
+
+16
+00:01:35,190 --> 00:01:39,470
+it to expose the manage custom blocks
+link.
+
+17
+00:01:40,659 --> 00:01:45,549
+To add a block, click on add block.
+
+18
+00:01:46,280 --> 00:01:51,229
+Give the block a name and input the
+content.
+
+19
+00:01:55,830 --> 00:01:59,870
+When you're satisfied click Save.
+
+20
+00:02:00,260 --> 00:02:04,620
+The new block will now appear in the
+custom blocks table. Click on the
+
+21
+00:02:04,620 --> 00:02:09,500
+expansion arrow to expose the edit and
+delete buttons.
+
+22
+00:02:10,019 --> 00:02:15,269
+Close the wizard by clicking on the X in
+the top right corner.
+
+23
+00:02:16,200 --> 00:02:21,990
+Let's look at website appearance
+settings and see our new block.
+
+24
+00:02:30,310 --> 00:02:34,970
+You can see our new block has been added to the top of the sidebar and that
+
+25
+00:02:34,970 --> 00:02:39,020
+it's been annotated to indicate that it
+is a custom block. To change its
+
+26
+00:02:39,020 --> 00:02:44,350
+placement in the sidebar, drag and drop
+the block to your preferred location.
+
+27
+00:02:47,440 --> 00:02:51,880
+Scroll to the bottom of the page and
+click Save.
+
+28
+00:02:53,580 --> 00:02:58,300
+Now let's take a look at how the block
+on our sidebar. Click on view site at the
+
+29
+00:02:58,300 --> 00:03:00,840
+top of the dashboard.
+
+30
+00:03:04,379 --> 00:03:07,920
+Our custom block is there
+in our sidebar, ready to be used by our
+
+31
+00:03:07,920 --> 00:03:12,569
+readers. And that concludes our overview
+of the custom blocks plugin. Thanks for
+
+32
+00:03:12,569 --> 00:03:16,280
+watching and we'll see you again in the
+next module.
+

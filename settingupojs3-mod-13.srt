@@ -1,0 +1,108 @@
+1
+00:00:04,270 --> 00:00:10,100
+Hello, welcome to module 13 of setting up a journal with OJS 3.0 the Google
+
+2
+00:00:10,100 --> 00:00:14,840
+Analytics plugin. Google Analytics is one
+of the optional plugins that you can
+
+3
+00:00:14,840 --> 00:00:18,590
+activate for your journal and connecting
+your Google Analytics account through
+
+4
+00:00:18,590 --> 00:00:22,310
+your journal website will enable the
+gathering of all kinds of use and visit
+
+5
+00:00:22,310 --> 00:00:27,230
+data on your journal. To activate and
+configure the google analytics plugin,
+
+6
+00:00:27,230 --> 00:00:32,410
+log in to your dashboard to the top
+right corner of the journal homepage.
+
+7
+00:00:35,219 --> 00:00:40,699
+Hover over settings in the left
+navigation and select website.
+
+8
+00:00:41,780 --> 00:00:47,290
+From the tabs along the top of the new
+frame, select plugins.
+
+9
+00:00:49,430 --> 00:00:54,050
+On the install plugins list, either used
+the search to find Google Analytics or
+
+10
+00:00:54,050 --> 00:01:00,280
+scroll down to generic plugins in the
+table and manually find Google Analytics.
+
+11
+00:01:04,479 --> 00:01:10,829
+In order to activate Google Analytics
+within OJS, tick the box.
+
+12
+00:01:14,330 --> 00:01:19,730
+An expansion arrow is now visible beside
+the plugin named click on it to expose
+
+13
+00:01:19,730 --> 00:01:23,950
+the plugin settings and click on
+settings.
+
+14
+00:01:26,850 --> 00:01:30,030
+Before you can start using Google
+Analytics on your home page, you must
+
+15
+00:01:30,030 --> 00:01:34,020
+first create a Google Analytics account.
+If you have not already done so you can
+
+16
+00:01:34,020 --> 00:01:38,430
+click on the Google Analytics site link
+to complete this step. Once you've got
+
+17
+00:01:38,430 --> 00:01:42,360
+your account setup, input your Google
+Analytics account number into this box
+
+18
+00:01:42,360 --> 00:01:47,070
+and click OK to save your setup. Please
+note that it can take up to 24 hours for
+
+19
+00:01:47,070 --> 00:01:50,340
+this update to push through onto the
+website and for Google Analytics to
+
+20
+00:01:50,340 --> 00:01:55,080
+begin reporting data. And that concludes
+our overview of the settings and
+
+21
+00:01:55,080 --> 00:01:59,009
+configuration of Google Analytics for
+your journal. Thanks for watching and
+
+22
+00:01:59,009 --> 00:02:02,330
+we'll see you again in the next module.
+

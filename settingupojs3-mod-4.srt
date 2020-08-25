@@ -1,0 +1,105 @@
+1
+00:00:04,299 --> 00:00:08,960
+Hello and welcome to module four of
+setting up a journal with OJS 3.0
+
+2
+00:00:08,960 --> 00:00:13,700
+registering and logging in. Registered
+user accounts play a big role in OJS,
+
+3
+00:00:13,700 --> 00:00:17,960
+from higher level management right down
+to casual readers and creating one is
+
+4
+00:00:17,960 --> 00:00:22,789
+your first step in taking on your role
+in the journals publication cycle. Anyone
+
+5
+00:00:22,789 --> 00:00:28,570
+can create a user account and in this
+video I'll walk you through creating yours.
+
+6
+00:00:29,590 --> 00:00:34,820
+We begin on the journal homepage, which
+we explored in module 3. In the top right
+
+7
+00:00:34,820 --> 00:00:39,380
+hand corner, you can see two links to
+register and to log in. If you already
+
+8
+00:00:39,380 --> 00:00:43,130
+had an account, you'd click on the log in
+link, but we're going to create a new
+
+9
+00:00:43,130 --> 00:00:50,989
+account by clicking register. This brings
+you to a fillable form. Simply follow the
+
+10
+00:00:50,989 --> 00:00:57,010
+field names to fill in the form. The red
+asterisks indicate the mandatory fields
+
+11
+00:01:10,570 --> 00:01:15,200
+At the end of the forum, new users can
+indicate whether they are interested in
+
+12
+00:01:15,200 --> 00:01:20,869
+acting as a reviewer for the journal.
+Selecting this option generates a new
+
+13
+00:01:20,869 --> 00:01:25,299
+field to where you can indicate your
+areas of expertise.
+
+14
+00:01:28,440 --> 00:01:33,840
+Click enter after you complete each
+keyword phrase to generate a new term box.
+
+15
+00:01:38,100 --> 00:01:46,220
+When you finish completing your
+reviewing interest, click register.
+
+16
+00:01:50,249 --> 00:01:54,850
+Congratulations! You've created a new
+account. The new page will indicate that
+
+17
+00:01:54,850 --> 00:01:58,359
+your registration is complete and you
+can see that the top right-hand corner
+
+18
+00:01:58,359 --> 00:02:02,170
+content has changed to reflect your
+username indicating that you are
+
+19
+00:02:02,170 --> 00:02:06,729
+currently logged in. This page also
+begins listing actions you can now take
+
+20
+00:02:06,729 --> 00:02:10,149
+with your registered account. These
+actions will be explored in later
+
+21
+00:02:10,149 --> 00:02:15,629
+modules. Thanks for watching and we'll
+see you again in the next module.
+

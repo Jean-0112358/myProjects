@@ -1,0 +1,228 @@
+1
+00:00:04,300 --> 00:00:09,680
+Hello, welcome back to module 7 of
+setting up a journal with OJS 3.0. This
+
+2
+00:00:09,680 --> 00:00:14,779
+is unit 3 of journal settings your
+sections. Many journals publish different
+
+3
+00:00:14,779 --> 00:00:19,609
+types of content such as articles
+reviews editorials and more. This unit
+
+4
+00:00:19,609 --> 00:00:22,839
+will help you create the working frames
+for different sections you might publish
+
+5
+00:00:22,839 --> 00:00:27,349
+including naming, defining policies for
+the section, setting word limits and
+
+6
+00:00:27,349 --> 00:00:31,550
+sliding section editors. In this module,
+I'll walk you through the process of
+
+7
+00:00:31,550 --> 00:00:38,120
+creating a new section. To access
+sections, we begin back on our website
+
+8
+00:00:38,120 --> 00:00:45,950
+and then access our user dashboard
+through the top right corner. Hover over
+
+9
+00:00:45,950 --> 00:00:50,650
+settings in the left-hand navigation
+menu and select journal.
+
+10
+00:00:50,810 --> 00:00:55,480
+Sections is the third tab in the journal
+settings.
+
+11
+00:00:56,579 --> 00:01:01,820
+On this page, you'll see the list of
+sections already created.
+
+12
+00:01:02,770 --> 00:01:07,400
+Clicking on the expansion arrow beside a
+section name exposes the edit and delete
+
+13
+00:01:07,400 --> 00:01:11,660
+button. You can edit the parameters of a
+section at any time or remove them
+
+14
+00:01:11,660 --> 00:01:16,010
+completely if they are no longer needed.
+For our purposes today, I'm going to
+
+15
+00:01:16,010 --> 00:01:20,810
+delete the article section and together
+we'll recreate it. To delete, hit delete
+
+16
+00:01:20,810 --> 00:01:26,690
+and then confirm if you hit delete by
+accident, you can hit cancel. Let's create
+
+17
+00:01:26,690 --> 00:01:35,090
+a section by clicking on the link in the
+right corner of the box. This brings up a
+
+18
+00:01:35,090 --> 00:01:40,869
+pop-up form. The required information is
+the section name and abbreviation.
+
+19
+00:01:40,869 --> 00:01:47,229
+The title for the section we are
+creating is articles. The abbreviation
+
+20
+00:01:47,229 --> 00:01:52,929
+we'll give it is ART. Section policy is
+a statement that describes the scope of
+
+21
+00:01:52,929 --> 00:01:56,979
+the section and the type of submissions
+that are appropriate. It should include
+
+22
+00:01:56,979 --> 00:01:59,890
+information about whether the
+submissions to the section are
+
+23
+00:01:59,890 --> 00:02:04,689
+peer-reviewed, indexed and whether there
+are any restrictions on who can submit
+
+24
+00:02:04,689 --> 00:02:08,619
+work to it. It can also include
+guidelines for length and formatting
+
+25
+00:02:08,619 --> 00:02:13,510
+style. Word count allows you to set a
+limitation on the abstract word length.
+
+26
+00:02:13,510 --> 00:02:21,430
+Entering a zero indicates that there is
+no limit. If your journal uses review
+
+27
+00:02:21,430 --> 00:02:26,400
+forms they can be selected from the drop
+down menu and apply it to the section.
+
+28
+00:02:26,400 --> 00:02:32,590
+Our journal currently does not have
+review forms. Review forms are created
+
+29
+00:02:32,590 --> 00:02:41,200
+and discussed in module 9. The indexing
+section allows you to opt out of some of
+
+30
+00:02:41,200 --> 00:02:45,579
+the OJS automatic functions. These will
+apply to all items published within the
+
+31
+00:02:45,579 --> 00:02:50,290
+section. If your journal is not using
+peer review on this section, which would
+
+32
+00:02:50,290 --> 00:02:54,639
+be the case for sections such as
+editorials or book reviews, be sure to
+
+33
+00:02:54,639 --> 00:03:01,630
+check this box. The identify items box
+allows you to apply descriptive keywords
+
+34
+00:03:01,630 --> 00:03:06,900
+to your section which helps with search
+engine indexing.
+
+35
+00:03:08,860 --> 00:03:13,820
+Finally, in this last section you can assign section editors. Section
+
+36
+00:03:13,820 --> 00:03:17,420
+editors will oversee this specific
+section and seperate submissions from
+
+37
+00:03:17,420 --> 00:03:23,420
+the section to publication. To assign an
+editor, click on add item. The drop down
+
+38
+00:03:23,420 --> 00:03:26,570
+menu will populate with all user
+accounts that have section editor roles
+
+39
+00:03:26,570 --> 00:03:35,330
+enabled for their accounts. Select the
+appropriate person. If you'd like to add
+
+40
+00:03:35,330 --> 00:03:40,460
+a second editor, click on the add item
+once more and repeat the process. When
+
+41
+00:03:40,460 --> 00:03:43,690
+you're satisfied with your work, click
+Save.
+
+42
+00:03:43,690 --> 00:03:47,990
+Lastly, the order of your sections on
+this page will be reflected in the table
+
+43
+00:03:47,990 --> 00:03:52,690
+of contents of your published journal. To
+change the order, click on the order link.
+
+44
+00:03:52,690 --> 00:03:57,740
+You can now drag and rearrange the
+sections as you please. When you're
+
+45
+00:03:57,740 --> 00:04:03,830
+finished, click done. And that concludes
+module 7. We'll see you back to the next
+
+46
+00:04:03,830 --> 00:04:06,760
+module. Thanks for watching.
+

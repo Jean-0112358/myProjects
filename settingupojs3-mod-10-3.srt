@@ -1,0 +1,92 @@
+1
+00:00:03,930 --> 00:00:08,920
+Hello, welcome back to module 10 of
+setting up your journal with OJS 3.0.
+
+2
+00:00:08,920 --> 00:00:14,830
+This is unit 3 of distribution settings
+payments. If you would like to process
+
+3
+00:00:14,830 --> 00:00:19,270
+payments such as for subscription fees
+or publication fees through your OJS
+
+4
+00:00:19,270 --> 00:00:22,990
+installation, that can be configured in
+the payment section of distribution
+
+5
+00:00:22,990 --> 00:00:28,150
+settings. To access this section, login to
+your dashboard through the top right
+
+6
+00:00:28,150 --> 00:00:31,020
+corner of your home page.
+
+7
+00:00:33,120 --> 00:00:40,020
+From the left navigation hover over
+settings and select distribution.
+
+8
+00:00:41,790 --> 00:00:46,260
+Payments is the third tab in the new
+frame.
+
+9
+00:00:47,620 --> 00:00:51,680
+Your first prompt is to select the
+currency in which you'll be processing
+
+10
+00:00:51,680 --> 00:00:55,180
+the payments from a drop-down list.
+
+11
+00:00:59,350 --> 00:01:04,339
+Next use the payment method drop-down
+menu to indicate whether payments will
+
+12
+00:01:04,339 --> 00:01:09,940
+be processed manually by your team or
+will be processed through PayPal.
+
+13
+00:01:11,000 --> 00:01:16,670
+If you select manual, a textbox generates
+for you to explain payment instructions
+
+14
+00:01:16,670 --> 00:01:19,600
+to your readers and authors.
+
+15
+00:01:22,810 --> 00:01:28,840
+If you select PayPal, you are asked to
+input your IPN URL and identify your
+
+16
+00:01:28,840 --> 00:01:33,369
+seller account. OJS has a PayPal
+plugin that will facilitate PayPal
+
+17
+00:01:33,369 --> 00:01:39,479
+transactions from your website. Once
+you've completed this page, click Save.
+
+18
+00:01:39,479 --> 00:01:45,009
+This feature can be added to your
+journal or updated at any time. Thanks
+
+19
+00:01:45,009 --> 00:01:48,960
+for watching and we'll see you again in
+the next module.
+

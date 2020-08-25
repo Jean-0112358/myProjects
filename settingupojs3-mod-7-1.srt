@@ -1,0 +1,205 @@
+1
+00:00:03,920 --> 00:00:09,360
+Hello, welcome to module 7 of setting up
+your journal with OJS 3.0 journal
+
+2
+00:00:09,360 --> 00:00:13,260
+settings. This section is quite large so
+we've broken it down into multiple units.
+
+3
+00:00:13,260 --> 00:00:17,789
+This first unit is the masthead. In the
+masthead, we'll be inputting a lot of the
+
+4
+00:00:17,789 --> 00:00:22,470
+contextual metadata for your journal.
+Let's dive in. We start back on the
+
+5
+00:00:22,470 --> 00:00:26,510
+journal homepage. Access your dashboard by hovering over your username and
+
+6
+00:00:26,510 --> 00:00:31,500
+clicking on the dashboard link from the
+left navigation. Hover over the Settings
+
+7
+00:00:31,500 --> 00:00:38,100
+tab and select journal. The masthead is
+the first tab under the journal settings.
+
+8
+00:00:38,100 --> 00:00:42,329
+The masthead is where we'll input the
+consistent publishing metadata for your
+
+9
+00:00:42,329 --> 00:00:46,920
+journal. The required fields are the
+journal name and journal initials. Fill
+
+10
+00:00:46,920 --> 00:00:51,510
+in your publication's full name. It will
+appear in your website's header. The
+
+11
+00:00:51,510 --> 00:00:55,549
+journal initials serve an internal
+function.
+
+12
+00:00:55,860 --> 00:01:01,320
+You can also add a preferred
+abbreviation which will appear in your URL.
+
+13
+00:01:05,300 --> 00:01:07,730
+The name of your publishing body can be
+input
+
+14
+00:01:07,730 --> 00:01:11,080
+into the publisher section.
+
+15
+00:01:13,600 --> 00:01:18,830
+If your journal has an ISSN,
+that information can be input here. The
+
+16
+00:01:18,830 --> 00:01:27,020
+system validates ISSN so I'm not able to
+input a false one. Journal summary is for
+
+17
+00:01:27,020 --> 00:01:31,369
+a brief description of your journals
+publishing interests and purpose. For our
+
+18
+00:01:31,369 --> 00:01:41,540
+example, we'll plug in some simple
+pre-selected text. The masthead section
+
+19
+00:01:41,540 --> 00:01:45,350
+of the page is a rich text editor where
+you can introduce all of the people on
+
+20
+00:01:45,350 --> 00:01:50,240
+your journal team including your editors,
+directors and other persons. You have
+
+21
+00:01:50,240 --> 00:01:53,690
+complete control over how this text
+looks, what information you choose to
+
+22
+00:01:53,690 --> 00:01:58,820
+include and what level of detail suits
+your purposes. This section populates the
+
+23
+00:01:58,820 --> 00:02:02,270
+editorial team page on your journals
+website and will be viewed by the public.
+
+24
+00:02:02,270 --> 00:02:05,840
+I've created some sample text to help
+give you an idea of what this could look
+
+25
+00:02:05,840 --> 00:02:13,970
+like. So as we can see, we have the title,
+we have the name, we have their
+
+26
+00:02:13,970 --> 00:02:18,080
+affiliation and we have a specific
+formatting that helps highlight that
+
+27
+00:02:18,080 --> 00:02:22,150
+each subsection is related to the title.
+
+28
+00:02:24,459 --> 00:02:28,850
+The about the journal section is another
+rich text editor in which you can input
+
+29
+00:02:28,850 --> 00:02:32,959
+as much or as little information as best
+suits your journal. The description of
+
+30
+00:02:32,959 --> 00:02:36,380
+the section makes suggestions as to what types of content you may want to include
+
+31
+00:02:36,380 --> 00:02:40,940
+in this section. If there are any
+sections you'd like to include but you
+
+32
+00:02:40,940 --> 00:02:44,959
+are uninspired in drafting the content,
+reviewing the OJS published journals for
+
+33
+00:02:44,959 --> 00:02:49,220
+inspiration or examples can be a big
+help. The content input into this section
+
+34
+00:02:49,220 --> 00:02:54,320
+displays on your journal website and
+populates the about the journal page. For
+
+35
+00:02:54,320 --> 00:03:00,799
+example purposes, here's what some of
+this content might look like. This
+
+36
+00:03:00,799 --> 00:03:05,299
+example has a focus and scope for the
+journal, information about the open
+
+37
+00:03:05,299 --> 00:03:10,609
+access policy, a copyright notice, a
+privacy statement and some information
+
+38
+00:03:10,609 --> 00:03:16,760
+about sponsorship. Now that we've filled
+in everything, click Save. The changes
+
+39
+00:03:16,760 --> 00:03:20,269
+will push through to your website
+immediately. If you need to change, edit
+
+40
+00:03:20,269 --> 00:03:24,530
+or add information at any time, just come
+right back to the masthead page and
+
+41
+00:03:24,530 --> 00:03:28,730
+follow the same steps. Thanks for
+watching, we'll see you again in the next
+
+42
+00:03:28,730 --> 00:03:30,970
+module.
+

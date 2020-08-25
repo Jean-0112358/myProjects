@@ -1,0 +1,103 @@
+1
+00:00:04,819 --> 00:00:10,830
+Hello, welcome back to module 11 of
+setting up a journal with OJS 3.0 users
+
+2
+00:00:10,830 --> 00:00:13,950
+and roles.
+This is unit 3 of this module slight
+
+3
+00:00:13,950 --> 00:00:18,900
+access options. Under the site access tab, you can turn off public user
+
+4
+00:00:18,900 --> 00:00:23,689
+registration or limit access to the
+reader facing site to registered users.
+
+5
+00:00:23,689 --> 00:00:28,619
+To access site access options, login to
+the dashboard through the top right
+
+6
+00:00:28,619 --> 00:00:31,880
+corner of your journal home page.
+
+7
+00:00:34,020 --> 00:00:39,560
+Hover-over users and roles in the left
+navigation and select site access options.
+
+8
+00:00:42,620 --> 00:00:47,200
+Manipulating site access is very easy,
+it's simply a matter of ticking or
+
+9
+00:00:47,200 --> 00:00:51,550
+unticking boxes to enable described
+features. The first section of the page
+
+10
+00:00:51,550 --> 00:00:55,750
+defines two options for additional site
+and article access restrictions.
+
+11
+00:00:55,750 --> 00:01:00,430
+You're able to select whether users must
+be registered and logged in to view the
+
+12
+00:01:00,430 --> 00:01:05,470
+journal site meaning any content on your
+website not just the journal issues as
+
+13
+00:01:05,470 --> 00:01:10,229
+well as select whether users must be
+registered to view open access content.
+
+14
+00:01:10,229 --> 00:01:15,910
+You can select either both or neither
+and you can change this at any date if
+
+15
+00:01:15,910 --> 00:01:21,399
+your journal changes its policies. The
+second section is user registration For
+
+16
+00:01:21,399 --> 00:01:26,830
+this section, you must select only one
+option. Option one, the default, is that
+
+17
+00:01:26,830 --> 00:01:31,570
+users can register a user account with
+the journal. Option two is to have the
+
+18
+00:01:31,570 --> 00:01:35,710
+journal manager register all user
+accounts with permissions to editors and
+
+19
+00:01:35,710 --> 00:01:40,180
+section editors to register a new
+reviewer accounts. When you've completed
+
+20
+00:01:40,180 --> 00:01:45,880
+your modifications, click Save. And that
+concludes this unit as well as concludes
+
+21
+00:01:45,880 --> 00:01:52,050
+module 11. Thanks for watching and we'll
+see you again in the next module.
+

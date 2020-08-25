@@ -1,0 +1,76 @@
+1
+00:00:04,550 --> 00:00:09,510
+Hello, welcome back to module 10 of
+setting up your journal with OJS 3.0.
+
+2
+00:00:09,510 --> 00:00:14,730
+This is unit 2 of distribution settings
+access. This is where you'll manage
+
+3
+00:00:14,730 --> 00:00:19,590
+access to the journal content. Access
+your dashboard through the login link in
+
+4
+00:00:19,590 --> 00:00:22,700
+the top right corner of your home page.
+
+5
+00:00:25,810 --> 00:00:31,900
+Hover over settings in the left
+navigation and select distribution.
+
+6
+00:00:34,500 --> 00:00:39,329
+Access is the second tab in the new
+frame.
+
+7
+00:00:40,680 --> 00:00:44,970
+This page is very simple, you just need
+to use the radio buttons to indicate
+
+8
+00:00:44,970 --> 00:00:48,060
+whether the journal will be used to
+openly publish the journals content
+
+9
+00:00:48,060 --> 00:00:53,010
+online or not. More nuanced restrictions
+and limitations for access such as
+
+10
+00:00:53,010 --> 00:00:57,870
+delayed open access or subscription
+access only are set elsewhere within the
+
+11
+00:00:57,870 --> 00:01:01,800
+different stages of the journal creation.
+This configuration is for back-end
+
+12
+00:01:01,800 --> 00:01:05,180
+auditing and configuration purposes.
+
+13
+00:01:05,180 --> 00:01:06,979
+When your selection is made, click Save.
+
+14
+00:01:06,979 --> 00:01:11,340
+If your journals publication policies
+change over time, you can always come
+
+15
+00:01:11,340 --> 00:01:15,420
+back to this page and change your
+settings. Thanks for watching and we'll
+
+16
+00:01:15,420 --> 00:01:18,530
+see you again in the next module.
+

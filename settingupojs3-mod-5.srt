@@ -1,0 +1,367 @@
+1
+00:00:04,029 --> 00:00:10,900
+Hello and welcome to module 5 of setting
+up a journal with OJS 3.0 user dashboard.
+
+2
+00:00:10,900 --> 00:00:15,020
+Most of the work we do in this course
+takes place in the dashboard and it
+
+3
+00:00:15,020 --> 00:00:19,070
+contains many important sections and
+elements. In this video, I'll introduce
+
+4
+00:00:19,070 --> 00:00:24,470
+you to those elements and give you a
+general orientation to the interface. We
+
+5
+00:00:24,470 --> 00:00:29,060
+begin on the journal's main page. In the
+top right hand corner, click on login and
+
+6
+00:00:29,060 --> 00:00:37,400
+enter the credentials for the account
+you created in module 4. Logging in
+
+7
+00:00:37,400 --> 00:00:41,390
+redirects you to your account's OJS
+dashboard which should look a lot like
+
+8
+00:00:41,390 --> 00:00:46,340
+this one at first. The dashboard is
+composed of a thin static navigation bar
+
+9
+00:00:46,340 --> 00:00:50,300
+along the top of the page and a static
+side navigation bar along the left that
+
+10
+00:00:50,300 --> 00:00:54,230
+create a frame around a dynamic window
+with section tabs and content that
+
+11
+00:00:54,230 --> 00:00:58,550
+changes based on what part of the
+dashboard you're looking at. We'll go
+
+12
+00:00:58,550 --> 00:01:01,070
+through the dashboard systematically,
+beginning with the top navigation
+
+13
+00:01:01,070 --> 00:01:05,930
+options and then working our way down
+through the left. In the top left, you'll
+
+14
+00:01:05,930 --> 00:01:10,130
+see the name of the journal for which
+you've created this account. If you have
+
+15
+00:01:10,130 --> 00:01:13,990
+multiple journals, you can use the
+expansion arrow to switch between them.
+
+16
+00:01:13,990 --> 00:01:18,499
+We next see the language of the page and
+then a link to view the journal site.
+
+17
+00:01:18,499 --> 00:01:25,840
+This link redirects you to your journal
+home page. Finally, there is the username.
+
+18
+00:01:26,130 --> 00:01:30,520
+Hovering over your name activates a
+drop-down menu of options to view your
+
+19
+00:01:30,520 --> 00:01:37,030
+profile or logout. Click on view profile
+this section is where you'll be able to
+
+20
+00:01:37,030 --> 00:01:41,050
+input and edit all of your private and
+public personal information. This section
+
+21
+00:01:41,050 --> 00:01:45,640
+is covered in depth in module six. Note
+the different tabs along the top of the
+
+22
+00:01:45,640 --> 00:01:50,770
+page that indicate different facets of
+this section and the help button which
+
+23
+00:01:50,770 --> 00:01:56,890
+opens a side panel with information
+about the page that you're on. Moving
+
+24
+00:01:56,890 --> 00:02:05,920
+along to the left sidebar navigation, our
+first tab is the tasks tab. Clicking on
+
+25
+00:02:05,920 --> 00:02:10,480
+this opens a pop-up that lists all tasks
+that have been assigned to you. We'll
+
+26
+00:02:10,480 --> 00:02:14,470
+cover what tasks are and assigning them
+extensively in the editing a journal
+
+27
+00:02:14,470 --> 00:02:20,050
+with OJS 3.0 course, so I won't go into
+detail on them here. Just know that if
+
+28
+00:02:20,050 --> 00:02:23,950
+you have them you'll be able to view
+them here. You'll note that my tasks tab
+
+29
+00:02:23,950 --> 00:02:29,380
+currently has a 0 beside it,
+but my pop-up shows an item. The number
+
+30
+00:02:29,380 --> 00:02:36,370
+indicates unread tasks. If I were to mark
+the tasks as unread by selecting it and
+
+31
+00:02:36,370 --> 00:02:45,880
+clicking the mark new button, my tasks
+number changes. I can also mark the tasks
+
+32
+00:02:45,880 --> 00:02:54,610
+as read or delete it. The submissions tab
+is where you'll manage submissions to
+
+33
+00:02:54,610 --> 00:02:58,750
+the journal. This is another section that
+is covered in depth in the editing a
+
+34
+00:02:58,750 --> 00:03:04,959
+journal course and it does not require
+any setup. In brief, the my queue tab contains
+
+35
+00:03:04,959 --> 00:03:09,160
+all active submissions that are
+specifically related to you. These can be
+
+36
+00:03:09,160 --> 00:03:12,940
+submissions you need to assign to a
+member of your team, submissions that
+
+37
+00:03:12,940 --> 00:03:17,020
+have been assigned to you to complete a
+task on and submissions that you may
+
+38
+00:03:17,020 --> 00:03:20,310
+have made to the journal that are being
+processed.
+
+39
+00:03:20,310 --> 00:03:28,950
+You can create a new submission by
+clicking on new submission. The all
+
+40
+00:03:28,950 --> 00:03:33,270
+active tab is only visible to editors
+and administrators and allows me to find
+
+41
+00:03:33,270 --> 00:03:39,370
+any active submission in the system.
+Archives show all articles that are no
+
+42
+00:03:39,370 --> 00:03:42,850
+longer in the editorial workflow, meaning
+they have either been published or
+
+43
+00:03:42,850 --> 00:03:45,330
+declined.
+
+44
+00:03:46,050 --> 00:03:50,110
+The issues tab is another editorial
+function that will be covered in the
+
+45
+00:03:50,110 --> 00:03:56,030
+editing a journal course.
+This section has two parts. Future issues
+
+46
+00:03:56,030 --> 00:04:01,400
+is where editors create, manage and
+publish in progress issues of their journals.
+
+47
+00:04:02,400 --> 00:04:08,960
+Back issues allows you to review and
+edit issues that have been published.
+
+48
+00:04:09,300 --> 00:04:14,460
+Hovering over the settings tab expands
+it into four sections. Each of these
+
+49
+00:04:14,460 --> 00:04:17,790
+sections are covered in different
+modules of this course and most of the
+
+50
+00:04:17,790 --> 00:04:22,130
+work we will be doing in this course
+happens under this tab.
+
+51
+00:04:23,370 --> 00:04:28,300
+Journal settings are the topic of module
+7 and is where will input contextual
+
+52
+00:04:28,300 --> 00:04:32,729
+metadata to describe your journal and
+its policies.
+
+53
+00:04:34,420 --> 00:04:39,410
+Website settings are the topic of module
+8. This is where will customize the
+
+54
+00:04:39,410 --> 00:04:43,460
+physical appearance of your website
+generate some content and explore some
+
+55
+00:04:43,460 --> 00:04:48,540
+other features that can be included in
+your website such as archiving and plugins.
+
+56
+00:04:51,180 --> 00:04:55,030
+Workflow settings arecovered in module nine and this is the
+
+57
+00:04:55,030 --> 00:04:58,000
+section in which will configure the
+editorial workflow of your journal
+
+58
+00:04:58,000 --> 00:05:02,199
+including file management, various
+guidelines requirements and deadlines
+
+59
+00:05:02,199 --> 00:05:06,449
+for different roles as well as email
+templates.
+
+60
+00:05:08,810 --> 00:05:13,790
+Distribution settings are the topic of
+module 10 and contain settings related
+
+61
+00:05:13,790 --> 00:05:18,320
+to search engine indexing, payments
+permissions and licensing details for
+
+62
+00:05:18,320 --> 00:05:20,919
+publication.
+
+63
+00:05:22,979 --> 00:05:26,919
+Users and roles is where you'll manage
+registered accounts made for your
+
+64
+00:05:26,920 --> 00:05:31,160
+journal and the roles and permissions
+associated with those user accounts.
+
+65
+00:05:31,160 --> 00:05:37,040
+This section is covered in more detail in
+modules 11, 12 and 13.
+
+66
+00:05:39,330 --> 00:05:43,300
+The tools section is where you can
+deploy certain plugins to pull different
+
+67
+00:05:43,300 --> 00:05:47,800
+types of data out of OJS as well as
+where you can access embedded reporting
+
+68
+00:05:47,800 --> 00:05:52,540
+and statistics on your journal. These
+topics will be covered in module 14 of
+
+69
+00:05:52,540 --> 00:05:57,910
+this course. And that concludes our
+whirlwind orientation of the OJS 3.0
+
+70
+00:05:57,910 --> 00:06:01,510
+dashboard. As I'm sure you've noticed,
+there are a lot of elements working
+
+71
+00:06:01,510 --> 00:06:05,650
+together within the system to accomplish
+different functions. The modules of this
+
+72
+00:06:05,650 --> 00:06:09,400
+course reflect this interoperability by
+building on each other as they walk you
+
+73
+00:06:09,400 --> 00:06:13,270
+through the step-by-step process of
+developing your journal. Thanks for
+
+74
+00:06:13,270 --> 00:06:16,980
+watching and we'll see you again in the
+next module.
+

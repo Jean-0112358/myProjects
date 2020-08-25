@@ -1,0 +1,310 @@
+1
+00:00:03,870 --> 00:00:08,680
+Hello, welcome back to module eight of
+setting up your journal with OJS 3.0.
+
+2
+00:00:08,680 --> 00:00:13,240
+This is unit six of website settings
+announcements. Announcements are
+
+3
+00:00:13,240 --> 00:00:16,450
+temporary content that will appear on
+your journals homepage. They are great
+
+4
+00:00:16,450 --> 00:00:19,419
+for content such as opening and closings
+of submission requests for special
+
+5
+00:00:19,419 --> 00:00:22,960
+issues, event announcements and other
+exciting changes happening in your
+
+6
+00:00:22,960 --> 00:00:28,539
+journal. To post an announcement, we begin on our website's main page and access
+
+7
+00:00:28,539 --> 00:00:32,640
+the dashboard through the top right
+corner of the page.
+
+8
+00:00:34,200 --> 00:00:40,320
+hover over settings in the left hand
+navigation and select website
+
+9
+00:00:41,950 --> 00:00:46,989
+announcements is the last tab on the
+website settings page.
+
+10
+00:00:47,600 --> 00:00:52,400
+The first thing you're prompted to do is
+to enable announcements. To enable
+
+11
+00:00:52,400 --> 00:00:57,040
+journal managers to post announcements, tick the box.
+
+12
+00:00:57,040 --> 00:01:01,300
+If you'd like announcements to display
+on your website's homepage, tick the box
+
+13
+00:01:01,300 --> 00:01:07,230
+and set the number of announcements that will display simultaneously on that page.
+
+14
+00:01:08,580 --> 00:01:12,270
+Enabling announcements creates a new
+page that will contain the archived
+
+15
+00:01:12,270 --> 00:01:16,470
+announcements and only the most recent
+announcements to the the number limits set
+
+16
+00:01:16,470 --> 00:01:20,490
+here will appear on your home page. If
+you have any information about
+
+17
+00:01:20,490 --> 00:01:23,490
+announcements that you would like to
+have displayed on your announcement page
+
+18
+00:01:23,490 --> 00:01:27,420
+such as perhaps a statement on who to
+contact with questions about
+
+19
+00:01:27,420 --> 00:01:32,790
+announcements, you can enter it into this
+text box. Let's enter some test content
+
+20
+00:01:32,790 --> 00:01:37,820
+so that we can see how it will display
+when we view it from the website.
+
+21
+00:01:42,050 --> 00:01:46,220
+If you'd like to add index and control
+to your announcements, you can use the
+
+22
+00:01:46,220 --> 00:01:52,010
+announcement type feature to create type
+classes. This feature helps group
+
+23
+00:01:52,010 --> 00:01:56,300
+announcements for easy search and review in the future. Let's make some sample
+
+24
+00:01:56,300 --> 00:02:03,100
+types to see this feature in action.
+Click on add an announcement type.
+
+25
+00:02:04,070 --> 00:02:08,800
+Enter a name for your type and click
+Save.
+
+26
+00:02:17,850 --> 00:02:22,900
+After you've saved, you can use the
+expansion arrow beside the type name to
+
+27
+00:02:22,900 --> 00:02:26,190
+either edit or remove it.
+
+28
+00:02:27,010 --> 00:02:31,269
+The final section is where you'll write
+your announcements click on add
+
+29
+00:02:31,269 --> 00:02:35,670
+announcement to bring up the creation
+wizard.
+
+30
+00:02:36,380 --> 00:02:42,060
+Select your announcement type from the
+drop down menu and then follow the forum prompts.
+
+31
+00:02:46,340 --> 00:02:50,870
+The short description is the content
+that will appear with the title on your
+
+32
+00:02:50,870 --> 00:02:55,660
+main page and on your archived
+announcements page.
+
+33
+00:02:57,160 --> 00:03:02,300
+Description is the full text of the
+announcement which is only seen after a
+
+34
+00:03:02,300 --> 00:03:06,050
+reader clicks through on the
+announcement. The short description will
+
+35
+00:03:06,050 --> 00:03:11,030
+not appear in the description text after
+a reader clicks through. The idea is that
+
+36
+00:03:11,030 --> 00:03:15,230
+the short description is a summary of
+the full description, providing a brief
+
+37
+00:03:15,230 --> 00:03:20,580
+overview while the full description
+provides the same information in greater detail.
+
+38
+00:03:26,080 --> 00:03:31,160
+If you want your announcement posted for a limited time, click on the expiry date
+
+39
+00:03:31,160 --> 00:03:36,160
+field and select an end date for the
+announcement.
+
+40
+00:03:37,010 --> 00:03:42,230
+When that end date is reached, the
+announcement automatically disappears.
+
+41
+00:03:42,230 --> 00:03:47,239
+To keep an announcement indefinitely, leave this field blank. Click Save when you've
+
+42
+00:03:47,239 --> 00:03:50,049
+completed the form.
+
+43
+00:03:50,650 --> 00:03:55,269
+As you add announcements, the
+announcement box populates in reverse
+
+44
+00:03:55,269 --> 00:04:00,480
+chronological order and indicates the
+announcement title type and date posted.
+
+45
+00:04:00,480 --> 00:04:05,640
+Clicking on the title allows you to view
+the announcement.
+
+46
+00:04:07,580 --> 00:04:12,140
+Clicking on the expansion arrow beside
+the title allows you to edit or remove
+
+47
+00:04:12,140 --> 00:04:15,140
+announcements.
+
+48
+00:04:15,300 --> 00:04:19,760
+Click Save again at the bottom of this
+page.
+
+49
+00:04:20,510 --> 00:04:24,560
+Let's take a look at how the
+announcement displays on our website,
+
+50
+00:04:24,560 --> 00:04:28,930
+by clicking view site at the top corner of
+our browser.
+
+51
+00:04:29,369 --> 00:04:34,360
+Firstly, notice that announcements has
+been added to the top navigation bar of
+
+52
+00:04:34,360 --> 00:04:38,790
+our website.
+As for how announcements display on the
+
+53
+00:04:38,790 --> 00:04:43,920
+homepage, it depends on which layout
+you're using. In this instance, we can see
+
+54
+00:04:43,920 --> 00:04:48,000
+that the announcements display
+underneath our permanent content but
+
+55
+00:04:48,000 --> 00:04:51,630
+above the most recent current issue of
+our journal. As for what part of the
+
+56
+00:04:51,630 --> 00:04:58,170
+announcement displays you'll, see here it
+is the brief description. If we click
+
+57
+00:04:58,170 --> 00:05:03,570
+through, you can see it is the full
+description. Let's take a look at the
+
+58
+00:05:03,570 --> 00:05:06,260
+announcement page.
+
+59
+00:05:07,400 --> 00:05:12,290
+The active announcements are displayed
+from most recent to least recent and are
+
+60
+00:05:12,290 --> 00:05:16,490
+listed with their titles and brief
+descriptions. If we click through to the
+
+61
+00:05:16,490 --> 00:05:21,949
+full description, we can see that the
+brief description is not included on the
+
+62
+00:05:21,949 --> 00:05:26,030
+page we redirected to. Which is why it's
+important to make sure that all vital
+
+63
+00:05:26,030 --> 00:05:31,970
+information is repeated in both the
+descriptions. And with that we conclude
+
+64
+00:05:31,970 --> 00:05:37,690
+module 8. Thanks for watching and we'll
+see you again in the next module.
+

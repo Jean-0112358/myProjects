@@ -1,0 +1,184 @@
+1
+00:00:04,250 --> 00:00:09,570
+Hello, welcome back to module nine of
+setting up your journal with OJS 3.0
+
+2
+00:00:09,570 --> 00:00:14,550
+workflow settings. Workflow settings
+allows you to configure all aspects of
+
+3
+00:00:14,550 --> 00:00:18,210
+the editorial workflow including file
+management, submission guidelines and
+
+4
+00:00:18,210 --> 00:00:21,960
+requirements, peer review guidelines and
+deadlines and email templates and
+
+5
+00:00:21,960 --> 00:00:26,099
+notifications. This is one of our larger
+modules and we've broken it into
+
+6
+00:00:26,099 --> 00:00:32,489
+multiple units. This video is unit 1
+components. Submissions to your journal
+
+7
+00:00:32,489 --> 00:00:37,350
+may be comprised of multiple parts or
+components such as the article text and
+
+8
+00:00:37,350 --> 00:00:41,790
+related datasets. The components section of the workflow settings is where you'll
+
+9
+00:00:41,790 --> 00:00:45,210
+be able to manage what subscription
+component types are supported by your
+
+10
+00:00:45,210 --> 00:00:50,430
+journal and can be included with
+submissions. To reach components, we begin
+
+11
+00:00:50,430 --> 00:00:55,760
+on our journal website and access our
+dashboard through the top right corner.
+
+12
+00:00:57,920 --> 00:01:04,030
+Hover over settings in the left
+navigation bar and select workflow.
+
+13
+00:01:07,049 --> 00:01:13,450
+Components is the first tab in the new
+frame and the page you land on. OJS has a
+
+14
+00:01:13,450 --> 00:01:17,560
+default list of possible components
+pre-loaded into your dashboard and these
+
+15
+00:01:17,560 --> 00:01:21,490
+defaults can be restored at any time
+using the restore default button. If
+
+16
+00:01:21,490 --> 00:01:25,360
+there are items in the list that are not
+relevant to your journal, click on the
+
+17
+00:01:25,360 --> 00:01:30,539
+expansion arrow beside the item and
+either edit or delete it.
+
+18
+00:01:36,439 --> 00:01:40,399
+If you're in need of a component type
+that is not included in the default list,
+
+19
+00:01:40,399 --> 00:01:46,030
+you can add it by clicking on add a
+component.
+
+20
+00:01:47,990 --> 00:01:50,899
+Acquired fields for adding a new
+component type are the component name
+
+21
+00:01:50,899 --> 00:01:56,320
+and designation. Enter an appropriate
+name.
+
+22
+00:01:58,280 --> 00:02:02,850
+Designation is a feature still in
+development so for now just enter a
+
+23
+00:02:02,850 --> 00:02:05,360
+double hash.
+
+24
+00:02:06,250 --> 00:02:11,320
+More information will be released on
+this feature in the future. Following
+
+25
+00:02:11,320 --> 00:02:15,010
+these fields are some additional options
+you can activate for this component. If
+
+26
+00:02:15,010 --> 00:02:20,100
+appropriate, you can indicate that files
+of this type are to be sorted by chapter.
+
+27
+00:02:20,100 --> 00:02:23,590
+Indicate that these files are independent from other published content
+
+28
+00:02:23,590 --> 00:02:29,880
+or indicate that these components will
+always be supplementary files.
+
+29
+00:02:31,110 --> 00:02:35,700
+Finally, you can use the drop-down menu
+to indicate the file type grouping of
+
+30
+00:02:35,700 --> 00:02:38,660
+this component.
+
+31
+00:02:39,770 --> 00:02:44,050
+When you're satisfied, click Save.
+
+32
+00:02:44,140 --> 00:02:48,280
+Once you've edited your components list
+to only include components relevant to
+
+33
+00:02:48,280 --> 00:02:53,350
+your journal submissions, you can use the
+order button to reorder the list. The
+
+34
+00:02:53,350 --> 00:02:57,250
+order is reflected on the submissions
+page so it is best practice to place the
+
+35
+00:02:57,250 --> 00:03:02,520
+most frequently used components near the top of the list for ease of access.
+
+36
+00:03:07,060 --> 00:03:10,930
+When you're satisfied with your order,
+click done.
+
+37
+00:03:10,930 --> 00:03:14,379
+That concludes our overview of the
+components section of the workflow
+
+38
+00:03:14,379 --> 00:03:19,829
+settings. Thanks for watching and we'll
+see you again in the next unit.
+

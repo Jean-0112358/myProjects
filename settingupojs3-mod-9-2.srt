@@ -1,0 +1,252 @@
+1
+00:00:04,160 --> 00:00:09,360
+Hello, welcome back to module nine of
+setting up your journal with OJS 3.0.
+
+2
+00:00:09,360 --> 00:00:15,420
+This is unit 2 of workflow settings
+submissions. The submissions section is
+
+3
+00:00:15,420 --> 00:00:18,599
+where we'll configure and input
+submission guidelines for authors,
+
+4
+00:00:18,599 --> 00:00:23,270
+submission checklists, metadata
+requirements and other related materials.
+
+5
+00:00:23,270 --> 00:00:27,630
+To access submissions head to your
+dashboard using the link in the top
+
+6
+00:00:27,630 --> 00:00:30,770
+right corner of your home page.
+
+7
+00:00:34,570 --> 00:00:39,080
+Hover over settings in the left
+navigation and click on workflow in the
+
+8
+00:00:39,080 --> 00:00:41,920
+extended menu.
+
+9
+00:00:44,420 --> 00:00:49,879
+Submission is the second tab along the
+top of the new frame.
+
+10
+00:00:50,519 --> 00:00:55,210
+The first prompt is for author
+guidelines. This is a section over which
+
+11
+00:00:55,210 --> 00:00:58,979
+you have complete content control thanks
+to the rich text editing box.
+
+12
+00:00:58,979 --> 00:01:03,129
+Bibliographic standards formatting
+requirements and timeline expectations
+
+13
+00:01:03,129 --> 00:01:08,040
+are some of the information elements
+that would be appropriate here.
+
+14
+00:01:12,210 --> 00:01:16,770
+The submissions preparation checklist is
+aimed at helping authors ensure that
+
+15
+00:01:16,770 --> 00:01:21,450
+everything the editorial team needs is
+included in their submission. It is
+
+16
+00:01:21,450 --> 00:01:25,680
+pre-populated with default items, but
+those items can be edited or deleted if
+
+17
+00:01:25,680 --> 00:01:32,300
+they are not relevant. To access those
+features, click on the expansion arrow.
+
+18
+00:01:32,960 --> 00:01:39,659
+This exposes the edit and delete buttons.
+You can also add items to the list using
+
+19
+00:01:39,659 --> 00:01:44,509
+the add item button in the top right
+hand corner of the box.
+
+20
+00:01:45,340 --> 00:01:50,210
+The add item wizard only has one field,
+which is a box in which you described
+
+21
+00:01:50,210 --> 00:01:53,259
+the new checklist item.
+
+22
+00:01:54,280 --> 00:01:58,750
+When you're satisfied click Save.
+
+23
+00:02:01,590 --> 00:02:05,980
+Notification of author submission allows
+you to direct the system to email the
+
+24
+00:02:05,980 --> 00:02:09,880
+primary contact of the journal in
+addition to emailing the author once the
+
+25
+00:02:09,880 --> 00:02:12,960
+submission is complete.
+
+26
+00:02:19,900 --> 00:02:24,770
+Submission metadata allows you to enable metadata fields that can be filled in by
+
+27
+00:02:24,770 --> 00:02:28,220
+the author at the time of submission as
+well as to indicate whether this
+
+28
+00:02:28,220 --> 00:02:32,420
+metadata element should be a part of the
+submission form. The advantage of
+
+29
+00:02:32,420 --> 00:02:36,610
+allowing your authors to complete the
+metadata is accuracy and detail. The
+
+30
+00:02:36,610 --> 00:02:40,160
+disadvantage is potential
+inconsistencies in terms throughout the
+
+31
+00:02:40,160 --> 00:02:44,300
+journal as you'll be using individual
+free text rather than applying a
+
+32
+00:02:44,300 --> 00:02:48,920
+controlled vocabulary. Be sure to
+consider your journals needs and goals
+
+33
+00:02:48,920 --> 00:02:53,200
+while making metadata element decisions.
+
+34
+00:02:53,770 --> 00:02:59,120
+Finally, we come to the privacy statement
+it is pre-populated with a default text
+
+35
+00:02:59,120 --> 00:03:02,900
+but can be edited to fully and
+accurately reflect your journals
+
+36
+00:03:02,900 --> 00:03:08,200
+policies. When completed, click Save.
+
+37
+00:03:09,280 --> 00:03:13,099
+Let's take a quick look at how the
+changes we've made will look to authors
+
+38
+00:03:13,099 --> 00:03:19,090
+making submissions. At the top of your
+window, click on view site.
+
+39
+00:03:19,720 --> 00:03:26,580
+On your homepage, hover over the about
+link and select submissions.
+
+40
+00:03:30,690 --> 00:03:34,560
+First, we can see the submissions
+preparation checklist which matches
+
+41
+00:03:34,560 --> 00:03:42,450
+exactly with what we saw in the
+dashboard. Following is the author
+
+42
+00:03:42,450 --> 00:03:46,880
+guidelines.
+You'll note that while I'm logged in
+
+43
+00:03:46,880 --> 00:03:51,350
+with my journal manager account, an edit
+button is visible beside the different
+
+44
+00:03:51,350 --> 00:03:55,760
+information blocks on the page. Clicking
+on this will bring us back to the
+
+45
+00:03:55,760 --> 00:03:59,600
+submissions page in the workflow
+settings of the dashboard. We can also
+
+46
+00:03:59,600 --> 00:04:03,530
+access our author submissions page in
+the dashboard which we discussed in
+
+47
+00:04:03,530 --> 00:04:07,520
+module 5 by clicking on either the
+making new submission or view your
+
+48
+00:04:07,520 --> 00:04:13,400
+pending submissions links. Not visible on
+this page is the submission metadata
+
+49
+00:04:13,400 --> 00:04:17,470
+section which impacts the actual
+submission process within the dashboard.
+
+50
+00:04:17,470 --> 00:04:22,700
+This is discussed in more detail in the
+editing a journal with OJS 3.0 course.
+
+51
+00:04:22,700 --> 00:04:27,980
+And that concludes our overview of
+workflow settings for submissions. Thanks
+
+52
+00:04:27,980 --> 00:04:31,930
+for watching and we'll see you again in
+the next module.
+

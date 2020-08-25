@@ -1,0 +1,395 @@
+1
+00:00:04,069 --> 00:00:09,719
+Hello, welcome to module 8 of setting up
+a journal with OJS 3.0 website settings.
+
+2
+00:00:09,719 --> 00:00:13,740
+As the section is quite large and can
+get complex, we've broken it down into
+
+3
+00:00:13,740 --> 00:00:17,640
+six units that correspond to the six
+tabs we'll see in the website settings
+
+4
+00:00:17,640 --> 00:00:21,689
+section of the dashboard.
+This video covers unit 1 website
+
+5
+00:00:21,689 --> 00:00:25,710
+appearance. I will walk you through all
+of the ways you can begin to customize
+
+6
+00:00:25,710 --> 00:00:29,220
+the look of your journal website and
+provide you with a brief introduction to
+
+7
+00:00:29,220 --> 00:00:33,510
+some of OJS 3.0 available templates,
+including the new bootstrap 3 base
+
+8
+00:00:33,510 --> 00:00:40,320
+themes. Let's get started. We begin on the
+journal home page and access our user
+
+9
+00:00:40,320 --> 00:00:43,880
+dashboard from the top right corner.
+
+10
+00:00:44,240 --> 00:00:49,250
+Hover over settings and select website.
+
+11
+00:00:50,660 --> 00:00:56,010
+The first tab is appearance and this is
+where we'll modify and adjust all visual
+
+12
+00:00:56,010 --> 00:01:02,370
+aspects of our journal. First, let's
+upload a logo by clicking upload in the
+
+13
+00:01:02,370 --> 00:01:07,020
+pop-up window. Either drag and drop your
+local image or click upload a file and
+
+14
+00:01:07,020 --> 00:01:09,800
+select your logo.
+
+15
+00:01:10,540 --> 00:01:15,850
+You are also prompted to add alternative
+text to your image. Alternative text is
+
+16
+00:01:15,850 --> 00:01:19,690
+particularly important for communicating
+the content of the image in the event
+
+17
+00:01:19,690 --> 00:01:23,290
+that the image doesn't load. It also
+helps describe images to anyone
+
+18
+00:01:23,290 --> 00:01:27,280
+navigating your site with the help of a
+text reader software. When you're
+
+19
+00:01:27,280 --> 00:01:30,630
+finished, click OK.
+
+20
+00:01:32,650 --> 00:01:38,840
+We can now see the image we've uploaded and it's related metadata. This logo will
+
+21
+00:01:38,840 --> 00:01:42,260
+now appear in the header of your website.
+I'll point it out later in the video
+
+22
+00:01:42,260 --> 00:01:46,600
+after we save and view our changes on
+the site.
+
+23
+00:01:46,719 --> 00:01:51,200
+The next section is a rich text editor
+box that allows you to crop the footer
+
+24
+00:01:51,200 --> 00:01:54,829
+of your website. Let's add a bit of
+simple text so that we can get a visual
+
+25
+00:01:54,829 --> 00:01:59,710
+sense of what this content looks like
+when viewed on the website.
+
+26
+00:02:02,750 --> 00:02:09,740
+Now we'll select the theme. OJS 3.0
+has three prepackaged themes. For now,
+
+27
+00:02:09,740 --> 00:02:14,660
+let's stick to the default theme. You can
+now select the font style that will be
+
+28
+00:02:14,660 --> 00:02:19,730
+used in the website. For simplicity, I'm
+going to use in Noto Sans, but I
+
+29
+00:02:19,730 --> 00:02:23,920
+encourage you to explore and select your
+favorite.
+
+30
+00:02:24,620 --> 00:02:29,349
+You can also choose the header banner
+color.
+
+31
+00:02:30,780 --> 00:02:34,980
+If you know the hex value of your
+preferred color, you can input it into
+
+32
+00:02:34,980 --> 00:02:37,220
+the box.
+
+33
+00:02:41,360 --> 00:02:45,890
+You can also drag the gradient bar
+
+34
+00:02:47,200 --> 00:02:52,420
+and select a color. Different web
+browsers and screens have different
+
+35
+00:02:52,420 --> 00:02:56,080
+capabilities when it comes to color
+display and we recommend going through
+
+36
+00:02:56,080 --> 00:03:00,099
+the hex code of colors that have been
+identified as optimal for websites in
+
+37
+00:03:00,099 --> 00:03:05,790
+order to ensure a consistent visual
+experience for all of your visitors.
+
+38
+00:03:07,610 --> 00:03:12,080
+If you have an experienced web developer
+working on your team, you are welcome to
+
+39
+00:03:12,080 --> 00:03:18,230
+leverage their expertise and upload
+custom CSS files using this wizard.
+
+40
+00:03:18,230 --> 00:03:22,220
+Sidebar management allows you to change or reorganize the content that appears on
+
+41
+00:03:22,220 --> 00:03:26,750
+the journals side navigation bar. The
+sidebar list indicates what is currently
+
+42
+00:03:26,750 --> 00:03:32,150
+in the sidebar and the order in which it
+appears in the sidebar. The unselected
+
+43
+00:03:32,150 --> 00:03:37,010
+list has content that is not currently
+in the sidebar, but could be added. To
+
+44
+00:03:37,010 --> 00:03:41,450
+change the sidebar content, just drag and
+drop the content boxes into the column
+
+45
+00:03:41,450 --> 00:03:47,570
+and order you prefer. Moving all of the
+items into the unselected will remove
+
+46
+00:03:47,570 --> 00:03:50,620
+the sidebar altogether.
+
+47
+00:03:56,640 --> 00:04:01,030
+Homepage image allows you to add an
+
+48
+00:04:01,030 --> 00:04:04,600
+image to be featured prominently on your
+home page. It will be the first thing
+
+49
+00:04:04,600 --> 00:04:08,350
+that appears in the body of the home
+page. Click upload and either drag and
+
+50
+00:04:08,350 --> 00:04:11,760
+drop or select the file.
+
+51
+00:04:22,720 --> 00:04:27,910
+If your journal has a favicon it can
+be uploaded here and will appear in web
+
+52
+00:04:27,910 --> 00:04:32,410
+browser navigation bars and in tabs
+beside your journal name. If there is any
+
+53
+00:04:32,410 --> 00:04:36,640
+permanent content you would like to have
+appear on your journal homepage such as
+
+54
+00:04:36,640 --> 00:04:39,970
+a welcome message or a brief
+introduction to the journal, you can
+
+55
+00:04:39,970 --> 00:04:44,820
+input it into the additional content
+rich text editor.
+
+56
+00:04:48,350 --> 00:04:52,650
+Under lists, you can set and adjust
+limits to the amount of information
+
+57
+00:04:52,650 --> 00:04:58,110
+items a page will hold before creating a
+second page of content. Finally, if you
+
+58
+00:04:58,110 --> 00:05:01,980
+have a small version of your logo, you
+can upload it as a thumbnail. This
+
+59
+00:05:01,980 --> 00:05:06,690
+thumbnail will be used by lists such as
+the PKP index alongside your journals
+
+60
+00:05:06,690 --> 00:05:12,000
+description which is something that we
+created back in module 7. When you're
+
+61
+00:05:12,000 --> 00:05:15,920
+satisfied with your changes, click Save.
+
+62
+00:05:18,050 --> 00:05:22,069
+Now let's view our journal and see how
+the changes have manifested in our
+
+63
+00:05:22,069 --> 00:05:31,129
+websites appearance. Firstly, you can see
+the changed banner color and the added
+
+64
+00:05:31,129 --> 00:05:36,349
+local image to our websites header. Our
+sidebar also has some significant
+
+65
+00:05:36,349 --> 00:05:44,349
+changes. In our home pages body, the first item that we see is the home page image.
+
+66
+00:05:48,430 --> 00:05:52,669
+Near the bottom of page, we can see the
+content that we set in the additional
+
+67
+00:05:52,669 --> 00:05:58,699
+content section. Finally, we see the
+footer that we saved. Now let's head back
+
+68
+00:05:58,699 --> 00:06:03,099
+to the dashboard and take a look at some
+of the other theme options.
+
+69
+00:06:04,730 --> 00:06:14,580
+From the themed drop-down menu, select
+bootstrap base 3 theme. A new menu of
+
+70
+00:06:14,580 --> 00:06:18,240
+themes should appear under the drop down menu. But if for some reason it doesn't,
+
+71
+00:06:18,240 --> 00:06:22,860
+click Save at the bottom of the page and
+then refresh. We won't go over all of the
+
+72
+00:06:22,860 --> 00:06:26,130
+different bootstrap theme options, but
+there's a lot of variety between them
+
+73
+00:06:26,130 --> 00:06:30,000
+and I encourage you to explore and test
+them out. Let's take a look at the
+
+74
+00:06:30,000 --> 00:06:34,920
+default bootstrap theme. We'll keep all
+the other elements we set previously so
+
+75
+00:06:34,920 --> 00:06:39,530
+that we can compare how they get
+rearranged in the new theme.
+
+76
+00:06:40,720 --> 00:06:44,730
+Click Save at the bottom of the page
+
+77
+00:06:45,550 --> 00:06:52,660
+and then on view site. All the elements
+we set and the appearance are still
+
+78
+00:06:52,660 --> 00:06:58,200
+there, but this layout gives your page a
+totally different look and feel.
+
+79
+00:07:02,620 --> 00:07:06,669
+And that concludes our walkthrough of
+website appearance. We highly encourage
+
+80
+00:07:06,669 --> 00:07:10,350
+you to explore this section and
+experiment with the different elements.
+
+81
+00:07:10,350 --> 00:07:14,460
+There are many ways to personalize your
+journals and to help it look its best.
+
+82
+00:07:14,460 --> 00:07:19,320
+Thanks for watching and we'll see you
+again in the next unit.
+

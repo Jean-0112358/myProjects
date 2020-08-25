@@ -1,0 +1,113 @@
+1
+00:00:04,170 --> 00:00:10,090
+Hello, welcome to module 10 of setting up a journal with OJS 3.0 distribution
+
+2
+00:00:10,090 --> 00:00:13,750
+settings. This is another larger module
+and we broken it down into multiple
+
+3
+00:00:13,750 --> 00:00:19,810
+units. This video is unit 1 indexing.
+Distribution settings is where we'll
+
+4
+00:00:19,810 --> 00:00:23,440
+configure settings related to your
+search engine indexing, any payments if
+
+5
+00:00:23,440 --> 00:00:27,210
+you'll be taking them and permissions
+and licensing details for publications.
+
+6
+00:00:27,210 --> 00:00:32,760
+From your journal homepage access your
+dashboard through the top right corner of the page.
+
+7
+00:00:35,180 --> 00:00:41,140
+Hover over settings in the left
+navigation and select distribution.
+
+8
+00:00:42,340 --> 00:00:46,250
+Indexing is the first tab in the new
+frame and the page that you land on.
+
+9
+00:00:46,250 --> 00:00:50,660
+Indexing refers to search engine
+indexing and the elements will configure
+
+10
+00:00:50,660 --> 00:00:53,930
+in this page will affect how your
+journal displays in search engine
+
+11
+00:00:53,930 --> 00:00:58,820
+results and influence how your journal
+is indexed by those search engines. Our
+
+12
+00:00:58,820 --> 00:01:02,900
+first item on this page is the
+description. This description displays
+
+13
+00:01:02,900 --> 00:01:06,650
+with a hyperlink to your website in
+search engine results. Fill in the text
+
+14
+00:01:06,650 --> 00:01:11,120
+box with an appropriate and brief
+descriptive statement introducing your journal.
+
+15
+00:01:18,380 --> 00:01:22,500
+Custom tags are the metadata that get
+embedded in the HTML structure of your
+
+16
+00:01:22,510 --> 00:01:26,440
+journal. They are not visible on your web
+page but are read by search engine
+
+17
+00:01:26,440 --> 00:01:31,060
+crawlers that index your page. The text
+input here should use HTML syntax and we
+
+18
+00:01:31,060 --> 00:01:33,690
+recommend looking up the structure if
+you're unfamiliar with it.
+
+19
+00:01:33,690 --> 00:01:38,110
+Search engine optimization can be a bit
+tricky and so we also recommend
+
+20
+00:01:38,110 --> 00:01:42,690
+leveraging search engine optimization
+best practices.
+
+21
+00:01:45,380 --> 00:01:50,329
+When you're satisfied with your content,
+click Save.
+
+22
+00:01:53,280 --> 00:01:58,200
+This page can be edited and updated at
+any time. Thanks for watching and we'll
+
+23
+00:01:58,200 --> 00:02:01,190
+see you again in the next module.
+

@@ -1,0 +1,156 @@
+1
+00:00:04,010 --> 00:00:08,880
+Welcome back to module nine of setting
+up your journal with OJS 3.0 workflow
+
+2
+00:00:08,880 --> 00:00:12,800
+settings.
+This is unit five of this module emails.
+
+3
+00:00:12,800 --> 00:00:16,650
+OJS sends a number of emails during
+various stages of the editorial workflow,
+
+4
+00:00:16,650 --> 00:00:20,280
+as well as other actions such as
+registration and submission
+
+5
+00:00:20,280 --> 00:00:24,240
+acknowledgement. The settings of the
+section allow you to edit the signature
+
+6
+00:00:24,240 --> 00:00:28,350
+attached to the email, as well as change
+the default messages sent in each type
+
+7
+00:00:28,350 --> 00:00:33,329
+of email. To access emails, log in to your
+dashboard using the login link in the
+
+8
+00:00:33,329 --> 00:00:37,100
+top right corner of your journal home
+page.
+
+9
+00:00:39,800 --> 00:00:46,000
+Hover over settings in the left
+navigation and select workflow.
+
+10
+00:00:46,949 --> 00:00:51,699
+Emails is the fifth tab at the top of
+the page.
+
+11
+00:00:51,699 --> 00:00:56,019
+The first item on the page is the
+signature attached to automated emails.
+
+12
+00:00:56,019 --> 00:01:00,460
+It has a default signature, but it is a
+rich text editing box that can be
+
+13
+00:01:00,460 --> 00:01:03,809
+customized whatever you prefer.
+
+14
+00:01:05,140 --> 00:01:09,950
+Following, use the option to set a
+bounce address. Any undelivered emails
+
+15
+00:01:09,950 --> 00:01:13,940
+will send an error message to this
+address. Activating this feature will
+
+16
+00:01:13,940 --> 00:01:18,160
+requires some assistance from your site
+administrator.
+
+17
+00:01:18,840 --> 00:01:25,299
+Finally we come to the email templates.
+OJS 3.0 is preloaded with 62 templates
+
+18
+00:01:25,299 --> 00:01:30,250
+all arranged in the following table. Some
+templates are essential and have their
+
+19
+00:01:30,250 --> 00:01:35,319
+enabled tick boxes greyed out. Others are
+optional and can be disabled as that
+
+20
+00:01:35,319 --> 00:01:39,369
+serves here. Clicking on the expansion
+arrow beside the template name allows
+
+21
+00:01:39,369 --> 00:01:44,310
+you to edit the email or reset it to its
+default settings.
+
+22
+00:01:51,400 --> 00:01:55,970
+When editing emails, it's important to
+note that the text in scroll brackets
+
+23
+00:01:55,970 --> 00:02:01,010
+are system commands that Auto generate content. When you've completed your edits,
+
+24
+00:02:01,010 --> 00:02:10,340
+click Save. To add a new template click
+on the add email template link at the
+
+25
+00:02:10,340 --> 00:02:12,880
+top of the box.
+
+26
+00:02:14,480 --> 00:02:20,040
+The form requires a name subject and
+body content. When you've completed the
+
+27
+00:02:20,040 --> 00:02:28,020
+form, click Save. When you're satisfied
+with all of the changes that you've made
+
+28
+00:02:28,020 --> 00:02:33,740
+to your templates, scroll down to the
+bottom of the page and click Save.
+
+29
+00:02:39,859 --> 00:02:44,340
+Email templates can be edited at any
+time and the defaults can all be
+
+30
+00:02:44,340 --> 00:02:49,109
+restored at once using the reset all
+templates button and that concludes our
+
+31
+00:02:49,109 --> 00:02:52,799
+overview of the email workflow settings.
+Thanks for watching we'll see you again
+
+32
+00:02:52,799 --> 00:02:55,519
+in the next module.
+

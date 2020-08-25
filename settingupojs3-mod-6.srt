@@ -1,0 +1,246 @@
+1
+00:00:04,480 --> 00:00:10,700
+Hello, welcome to module 6 of setting up
+a journal with OJS 3.0 user profile. In
+
+2
+00:00:10,700 --> 00:00:15,170
+this module, I'll be walking you through
+how to configure your personal user
+
+3
+00:00:15,170 --> 00:00:19,090
+profile within the OJS dashboard.
+
+4
+00:00:20,000 --> 00:00:25,099
+We begin on the journal homepage in the
+top right hand corner. You can log in to
+
+5
+00:00:25,099 --> 00:00:29,869
+your account. If you are already logged
+in, hover over your username and select
+
+6
+00:00:29,869 --> 00:00:36,739
+the view profile link. We land on the
+identity tab. The mandatory fields of
+
+7
+00:00:36,739 --> 00:00:40,309
+this page are filled in using the
+information that you input during the
+
+8
+00:00:40,309 --> 00:00:45,230
+creation of your user account. There are
+options for more information though if,
+
+9
+00:00:45,230 --> 00:00:49,610
+for example, you have a middle name and
+would like to include it, you can input
+
+10
+00:00:49,610 --> 00:00:54,579
+it here.
+You can also include a salutation,
+
+11
+00:00:54,580 --> 00:00:58,440
+your initials, a suffix
+
+12
+00:00:58,520 --> 00:01:04,840
+if one applies and your gender identity.
+Click Save when you have completed the
+
+13
+00:01:04,840 --> 00:01:09,560
+form.
+Along the top navigation, select the
+
+14
+00:01:09,560 --> 00:01:12,220
+contact tab.
+
+15
+00:01:14,850 --> 00:01:19,650
+Under the contact section, you can enter
+your contact information. The only
+
+16
+00:01:19,650 --> 00:01:23,580
+required information is your email
+address and your country, both of which
+
+17
+00:01:23,580 --> 00:01:28,500
+are information that we input during the
+creation process. But you also have the
+
+18
+00:01:28,500 --> 00:01:32,060
+option to input your phone number,
+
+19
+00:01:35,659 --> 00:01:39,490
+an affiliation if you have one
+
+20
+00:01:45,600 --> 00:01:49,880
+and your mailing address if you so
+choose.
+
+21
+00:02:04,070 --> 00:02:09,040
+Again, click Save when you're satisfied
+with the form.
+
+22
+00:02:12,560 --> 00:02:16,569
+We'll next move on to the roles tab.
+
+23
+00:02:17,520 --> 00:02:22,770
+Under rules, you can see the rules that
+have been assigned to your account. This
+
+24
+00:02:22,770 --> 00:02:27,840
+account is enabled as an author and a
+reviewer but we can also enable it as a
+
+25
+00:02:27,840 --> 00:02:30,470
+reader.
+
+26
+00:02:30,970 --> 00:02:34,660
+If you have enabled that you are a
+reviewer, make sure that you're reviewing
+
+27
+00:02:34,660 --> 00:02:39,000
+interests are entered into the field
+down below.
+
+28
+00:02:39,650 --> 00:02:43,540
+When you are finished, click Save.
+
+29
+00:02:44,400 --> 00:02:48,260
+Well next move on to the public tab.
+
+30
+00:02:48,530 --> 00:02:52,940
+Under the public tab, you can build your
+public profile. This profile will be
+
+31
+00:02:52,940 --> 00:02:57,620
+visible to the public on the journal
+website. If you have an identifying photo
+
+32
+00:02:57,620 --> 00:03:01,130
+that you would like to have associated
+with your account, you can drag and drop
+
+33
+00:03:01,130 --> 00:03:09,080
+the file into the section to begin
+uploading. You can also click on upload
+
+34
+00:03:09,080 --> 00:03:16,010
+file to open a browser window. The bio
+statement is a rich text editor and you
+
+35
+00:03:16,010 --> 00:03:18,890
+can populate it with whatever
+biographical information you would like
+
+36
+00:03:18,890 --> 00:03:23,690
+to share with readers. Your profile will
+be accessed by readers viewing your
+
+37
+00:03:23,690 --> 00:03:27,470
+articles, so biographical information
+that helps support your expertise is
+
+38
+00:03:27,470 --> 00:03:30,190
+recommended.
+
+39
+00:03:33,440 --> 00:03:38,890
+If you have a personal website, enter the
+URL
+
+40
+00:03:42,550 --> 00:03:47,200
+and if you have an orchid ID you can
+enter it here. When you've completed all
+
+41
+00:03:47,200 --> 00:03:50,430
+the changes, click Save.
+
+42
+00:03:56,040 --> 00:04:01,230
+The password tab allows you to reset
+your password if necessary, just enter
+
+43
+00:04:01,230 --> 00:04:09,840
+your current password, your new password, confirm it and click Save.
+
+44
+00:04:10,020 --> 00:04:14,120
+Under the notifications tab you can decide what types of submission event notifications
+
+45
+00:04:14,120 --> 00:04:17,820
+you will receive. With in the OJS system,
+the default setting is that you will
+
+46
+00:04:17,820 --> 00:04:23,639
+receive notifications both in the
+dashboard and via email. Personally I do
+
+47
+00:04:23,639 --> 00:04:28,770
+not like receiving email notifications,
+so we are going to select do not send me
+
+48
+00:04:28,770 --> 00:04:38,430
+an email for these types of
+notifications on each of the types. When
+
+49
+00:04:38,430 --> 00:04:42,139
+you've completed your settings, click
+Save.
+
+50
+00:04:42,139 --> 00:04:47,620
+You have now completely configured your
+personal profile within the OJS system.
+
+51
+00:04:47,620 --> 00:04:51,999
+You can always come back at any time and make further adjustments if necessary.
+
+52
+00:04:51,999 --> 00:04:56,349
+Thanks for watching, we'll see you next
+time.
+

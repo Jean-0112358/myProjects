@@ -1,0 +1,172 @@
+1
+00:00:04,150 --> 00:00:09,559
+Hello, welcome back to module eight of
+setting up a journal with OJS 3.0. This
+
+2
+00:00:09,559 --> 00:00:14,210
+is unit two of website settings
+information. We're still in the website
+
+3
+00:00:14,210 --> 00:00:17,450
+settings module on the dashboard and in
+this unit we'll be looking at how you
+
+4
+00:00:17,450 --> 00:00:23,240
+can edit the targeted user content
+contained in the information block. We
+
+5
+00:00:23,240 --> 00:00:27,560
+begin back on our journal homepage. If
+you'll recall unit 1 of this module, one
+
+6
+00:00:27,560 --> 00:00:31,430
+of the settings we've manipulated was
+the content of the sidebar. The content
+
+7
+00:00:31,430 --> 00:00:34,280
+block currently at the top of our
+sidebar is called the information block
+
+8
+00:00:34,280 --> 00:00:38,270
+and it contains pages of targeted
+information for readers, authors and
+
+9
+00:00:38,270 --> 00:00:42,860
+librarians. In this unit we're going to
+go over how to customize the information
+
+10
+00:00:42,860 --> 00:00:48,820
+on these pages. In the top right corner,
+access your dashboard.
+
+11
+00:00:51,379 --> 00:00:56,890
+Hover over settings in the left
+navigation and select website.
+
+12
+00:00:57,950 --> 00:01:04,310
+From the tabs along the top of the page,
+select the second tab information.
+
+13
+00:01:04,550 --> 00:01:08,970
+Editing the information section is very
+straightforward. The section audience,
+
+14
+00:01:08,970 --> 00:01:12,960
+heads, the rich text editing boxes and
+the boxes are pre-populated with a
+
+15
+00:01:12,960 --> 00:01:18,360
+default message aimed at the common
+needs of that audience. If the default
+
+16
+00:01:18,360 --> 00:01:21,990
+text serves your purposes,
+there's no need to make any changes. But
+
+17
+00:01:21,990 --> 00:01:25,230
+you are welcome to customize this text
+or even replace it entirely if that's
+
+18
+00:01:25,230 --> 00:01:30,119
+what best serves your journal. The for
+readers section discusses how readers
+
+19
+00:01:30,119 --> 00:01:34,470
+can create registered accounts and some
+of the benefits of doing so. You'll want
+
+20
+00:01:34,470 --> 00:01:37,380
+to edit this text if your journal
+requires reader accounts or
+
+21
+00:01:37,380 --> 00:01:41,490
+subscriptions to access your content. If
+you're going to hyperlink from this page
+
+22
+00:01:41,490 --> 00:01:46,100
+to content elsewhere,
+make sure you test the links.
+
+23
+00:01:47,159 --> 00:01:51,520
+The four authors section contains broad
+information about submitting to the
+
+24
+00:01:51,520 --> 00:01:55,330
+journal. The default is fairly short
+redirecting authors to the author
+
+25
+00:01:55,330 --> 00:01:58,780
+guidelines and relevant content we've
+already input on two different pages of
+
+26
+00:01:58,780 --> 00:02:02,500
+the website. You can include more
+detailed information here if you'd
+
+27
+00:02:02,500 --> 00:02:06,490
+prefer to. Just make sure to remember to
+update any duplicated information on
+
+28
+00:02:06,490 --> 00:02:10,390
+this page if you make changes to this
+content elsewhere on your website in the
+
+29
+00:02:10,390 --> 00:02:14,620
+future. The four librarian section
+contains information about how
+
+30
+00:02:14,620 --> 00:02:19,570
+librarians can include your journal in
+their catalogs and holdings. This is also
+
+31
+00:02:19,570 --> 00:02:23,230
+a great place to include information and
+contacts for institutional subscriptions
+
+32
+00:02:23,230 --> 00:02:27,300
+if your journal requires subscriptions.
+
+33
+00:02:28,019 --> 00:02:32,859
+When you're happy with your content,
+click save. Your changes we'll go live on
+
+34
+00:02:32,859 --> 00:02:38,650
+your website immediately. These pages can be edited or updated at any time.
+
+35
+00:02:38,650 --> 00:02:42,599
+Thanks for watching and we'll see you again in the next unit.
+

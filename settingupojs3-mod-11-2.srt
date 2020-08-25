@@ -1,0 +1,189 @@
+1
+00:00:04,279 --> 00:00:10,110
+Hello, welcome back to module 11 of
+setting up a journal with OJS 3.0 users
+
+2
+00:00:10,110 --> 00:00:14,610
+and roles.
+This is unit 2 of this module roles. User
+
+3
+00:00:14,610 --> 00:00:21,090
+roles govern who can access what in the
+editorial workflow. OJS 3.0 provides a
+
+4
+00:00:21,090 --> 00:00:24,630
+flexible user role system that allows
+you to tailor these roles to your
+
+5
+00:00:24,630 --> 00:00:29,579
+journals needs. To access rules, login to
+your dashboard through the top right
+
+6
+00:00:29,579 --> 00:00:32,750
+corner of your journal home page.
+
+7
+00:00:35,579 --> 00:00:40,910
+Hover over users and roles and select
+roles.
+
+8
+00:00:44,629 --> 00:00:50,710
+OJS is pre-loaded with 17 different roles
+and they are listed in this table. The
+
+9
+00:00:50,710 --> 00:00:56,210
+table lists the roles by name and
+abbreviation and then indicates the
+
+10
+00:00:56,210 --> 00:01:01,790
+different stage assignments that can be
+activated for the role. This means that
+
+11
+00:01:01,790 --> 00:01:06,920
+users with, for example, the role of
+journal editor are able to assign tasks
+
+12
+00:01:06,920 --> 00:01:11,840
+from all stages of production to
+appropriate users. But the production
+
+13
+00:01:11,840 --> 00:01:16,789
+editor is only able to assign copy
+editing or production tasks to the
+
+14
+00:01:16,789 --> 00:01:21,319
+appropriate users. They are unable to
+assign tasks related to submissions or
+
+15
+00:01:21,319 --> 00:01:26,929
+reviews. To change these role based
+abilities tick or untick the boxes
+
+16
+00:01:26,929 --> 00:01:30,950
+related to the responsibility you wish
+to change. Clicking on the expansion
+
+17
+00:01:30,950 --> 00:01:36,819
+arrow beside the role name exposes the
+edit and remove buttons.
+
+18
+00:01:38,500 --> 00:01:43,330
+To edit a role, click Edit.
+
+19
+00:01:44,979 --> 00:01:49,420
+For existing roles, the permission level
+will be grayed out and cannot be changed
+
+20
+00:01:49,420 --> 00:01:53,920
+through editing, but you are able to edit
+the role name as well as the
+
+21
+00:01:53,920 --> 00:01:59,310
+abbreviation for the name.
+Following is another opportunity to
+
+22
+00:01:59,310 --> 00:02:01,950
+adjust the stage assignment powers of
+this role.
+
+23
+00:02:01,950 --> 00:02:06,060
+Finally you can indicate whether you
+want this role title to appear in the
+
+24
+00:02:06,060 --> 00:02:10,679
+contributor list and whether you'd like
+to allow users to self register for this
+
+25
+00:02:10,679 --> 00:02:15,510
+role as they can with readers and
+authors. When you've completed your edits,
+
+26
+00:02:15,510 --> 00:02:18,500
+click OK.
+
+27
+00:02:21,440 --> 00:02:26,930
+In addition to editing existing roles,
+you are also able to create new roles by
+
+28
+00:02:26,930 --> 00:02:32,350
+clicking on the create new role button
+in the top right corner of the box.
+
+29
+00:02:32,740 --> 00:02:38,440
+When creating a role you are able to
+select the ideal permission level. As we
+
+30
+00:02:38,440 --> 00:02:42,070
+saw while editing the roles, the
+permission level becomes locked after
+
+31
+00:02:42,070 --> 00:02:45,330
+the role is created.
+
+32
+00:02:45,420 --> 00:02:50,020
+Following we see the same fields we
+covered while editing roles. When you've
+
+33
+00:02:50,020 --> 00:02:54,300
+completed the form, click OK at the
+bottom.
+
+34
+00:02:54,300 --> 00:02:57,840
+For more information about what
+permissions are associated with each
+
+35
+00:02:57,840 --> 00:03:03,890
+role, click on the Help button at the top
+right of the page.
+
+36
+00:03:04,790 --> 00:03:09,140
+Scroll down to the roll section.
+
+37
+00:03:11,340 --> 00:03:16,410
+A brief list of the different permission
+levels can be found here. And that
+
+38
+00:03:16,410 --> 00:03:20,550
+concludes our overview of roles. Thanks
+for watching and we'll see you again in
+
+39
+00:03:20,550 --> 00:03:22,970
+the next module
+

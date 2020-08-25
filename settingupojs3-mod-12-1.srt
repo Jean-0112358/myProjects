@@ -1,0 +1,83 @@
+1
+00:00:04,330 --> 00:00:11,110
+Hello, welcome module 12 of setting up
+your journal with OJS 3.0 tools. This
+
+2
+00:00:11,110 --> 00:00:16,600
+module has two units and this video is
+unit 1 import/export. The import/export
+
+3
+00:00:16,600 --> 00:00:21,250
+tools allow you to move content between
+OJS installations you can import and
+
+4
+00:00:21,250 --> 00:00:26,950
+export users, publications and article
+metadata. To access import/export, login
+
+5
+00:00:26,950 --> 00:00:31,140
+to your journal through the top right
+corner of your journal homepage.
+
+6
+00:00:33,879 --> 00:00:39,600
+Hover over tools in the left navigation
+and select import/export.
+
+7
+00:00:41,039 --> 00:00:45,570
+The frame you land on is a list of
+different plugins installed in OJS
+
+8
+00:00:45,570 --> 00:00:51,600
+3.0 that facilitate data migration.
+Each item is composed of a hyperlinked
+
+9
+00:00:51,600 --> 00:00:57,510
+title and brief description of what each
+tool accomplishes. To use a tool click on
+
+10
+00:00:57,510 --> 00:01:00,110
+the hyperlink.
+
+11
+00:01:01,200 --> 00:01:06,570
+Each plugin looks a bit different. Some
+will require some configuration such as
+
+12
+00:01:06,570 --> 00:01:10,800
+the data sight export registration
+plugin. But clear instructions and
+
+13
+00:01:10,800 --> 00:01:16,050
+additional information is included in
+the page to help you use the tool. Others
+
+14
+00:01:16,050 --> 00:01:21,000
+such as the public identifiers XML
+plugin are already configured and can be
+
+15
+00:01:21,000 --> 00:01:24,630
+immediately used to export data from
+your journal as well as to facilitate
+
+16
+00:01:24,630 --> 00:01:30,240
+the import of relevant data files. With
+each tool simply follow the instructions
+
+17
+00:01:30,240 --> 00:01:35,480
+and prompts on the relevant page. Thanks for watching and we'll see you again in the next unit.
+

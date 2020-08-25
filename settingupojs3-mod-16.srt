@@ -1,0 +1,195 @@
+1
+00:00:04,000 --> 00:00:11,090
+Hello, welcome to module 16 of setting up
+a journal with OJS 3.0 getting help.
+
+2
+00:00:11,090 --> 00:00:14,870
+We recognize that there's no way for us
+to include all possible information into
+
+3
+00:00:14,870 --> 00:00:19,430
+our pkp school courses and this extra
+module aims to help you discover the
+
+4
+00:00:19,430 --> 00:00:22,699
+different ways in which you can access
+more detailed support as you develop
+
+5
+00:00:22,699 --> 00:00:27,650
+your journal with OJS 3.0. The first
+recourse is embedded in your journal's
+
+6
+00:00:27,650 --> 00:00:30,160
+dashboard.
+
+7
+00:00:32,730 --> 00:00:37,530
+Most pages in the dashboard have a help
+button.
+
+8
+00:00:37,780 --> 00:00:41,420
+Clicking on it will open a sliding
+window with information about the page
+
+9
+00:00:41,420 --> 00:00:45,680
+that you are on and what you can do
+there. If you scroll to the top, you'll
+
+10
+00:00:45,680 --> 00:00:49,150
+see you have access to a table of
+contents.
+
+11
+00:00:52,040 --> 00:00:56,970
+This exposes all of the different help
+pages embedded in the dashboard and you
+
+12
+00:00:56,970 --> 00:01:01,400
+can use the hyperlinks to look for
+information that you need.
+
+13
+00:01:01,859 --> 00:01:06,270
+Or you can use the previous and next
+buttons at the bottom of the page to
+
+14
+00:01:06,270 --> 00:01:11,520
+read through like a manual. This content
+is sourced from the PKP documentation
+
+15
+00:01:11,520 --> 00:01:15,720
+Github and is updated in tandem with
+software upgrades so should always be
+
+16
+00:01:15,720 --> 00:01:21,270
+current. If you require more in-depth
+assistance, head to the PKP main website
+
+17
+00:01:21,270 --> 00:01:29,009
+pkp.sfu.ca. From the top navigation
+you can see there is a link called
+
+18
+00:01:29,009 --> 00:01:31,640
+support.
+
+19
+00:01:32,260 --> 00:01:36,020
+Under it are the different places you
+can look for further assistance.
+
+20
+00:01:36,030 --> 00:01:40,380
+The PKP community forum is a place where
+you can ask questions and review
+
+21
+00:01:40,380 --> 00:01:43,700
+questions that have been post.
+
+22
+00:01:46,200 --> 00:01:52,380
+Here you can leverage the expertise of
+the PKP community members. You're also
+
+23
+00:01:52,380 --> 00:01:56,219
+welcome to assist in answering questions
+and to join in any of the forum
+
+24
+00:01:56,219 --> 00:02:01,439
+conversations. There is a specific area
+for frequently asked questions, as well
+
+25
+00:02:01,440 --> 00:02:05,400
+as a dedicated questions sub-forum.
+
+26
+00:02:05,680 --> 00:02:12,520
+The documentation link leads you to the
+PKP wiki page. The wiki is a web of
+
+27
+00:02:12,530 --> 00:02:16,760
+collected information sources. You can
+use the search bar to look for something
+
+28
+00:02:16,760 --> 00:02:20,569
+specific, or you can dig around through
+the descriptive links for a more organic
+
+29
+00:02:20,569 --> 00:02:22,959
+search.
+
+30
+00:02:23,880 --> 00:02:28,800
+PKP school is another source of
+additional information.
+
+31
+00:02:28,880 --> 00:02:32,990
+Here you'll be able to find courses that
+are similar to this one and that focus
+
+32
+00:02:32,990 --> 00:02:35,990
+on providing skills training for the
+different roles within and OJS
+
+33
+00:02:35,990 --> 00:02:41,980
+installation. Finally, the education and
+training link leads you to further
+
+34
+00:02:41,980 --> 00:02:48,400
+resources, particularly you'll find user
+guides that can assist you in developing
+
+35
+00:02:48,410 --> 00:02:52,060
+your knowledge and understanding of
+different facets of the public knowledge
+
+36
+00:02:52,070 --> 00:02:56,030
+project software suites.
+And let's not forget that you're always
+
+37
+00:02:56,030 --> 00:02:59,300
+welcome to leave your questions in the
+comments of this course and we'll do our
+
+38
+00:02:59,300 --> 00:03:03,440
+best to help you find the information
+that you need. And that concludes our
+
+39
+00:03:03,440 --> 00:03:08,060
+course setting up a journal with OJS 3.0.
+Thank you for watching and learning with
+
+40
+00:03:08,060 --> 00:03:11,860
+us and we look forward to reading your
+journals.
+

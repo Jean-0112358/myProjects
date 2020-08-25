@@ -1,0 +1,87 @@
+1
+00:00:04,799 --> 00:00:06,029
+Hello!
+
+2
+00:00:06,029 --> 00:00:11,280
+Welcome to the PKP Course: Setting up a Journal
+with OJS 3.0, Module 1: Introduction.
+
+3
+00:00:11,280 --> 00:00:15,260
+My name is Janna, and I'll be your guide through
+this new version of Open Journal Systems.
+
+4
+00:00:15,260 --> 00:00:18,660
+Before we get started, here are a few basics
+that you should know.
+
+5
+00:00:18,660 --> 00:00:20,869
+Firstly, the course is free.
+
+6
+00:00:20,869 --> 00:00:24,079
+There are no fees to take any of the PKP School
+courses.
+
+7
+00:00:24,079 --> 00:00:27,699
+There is a paid certification option, but
+that is optional.
+
+8
+00:00:27,699 --> 00:00:30,759
+Secondly, the course is completely online.
+
+9
+00:00:30,759 --> 00:00:33,670
+Everything you need will be available in the
+online modules.
+
+10
+00:00:33,670 --> 00:00:36,770
+Thirdly, the course is entirely self-paced.
+
+11
+00:00:36,770 --> 00:00:39,480
+You can move through the modules at your own
+speed.
+
+12
+00:00:39,480 --> 00:00:41,519
+And finally, the course is interactive.
+
+13
+00:00:41,519 --> 00:00:45,800
+Although registration is optional, doing so
+will allow you to interact with me and other
+
+14
+00:00:45,800 --> 00:00:48,329
+students in the online discussions.
+
+15
+00:00:48,329 --> 00:00:54,399
+Each module will typically consist of a learning
+objective, a video, some readings, an activity,
+
+16
+00:00:54,399 --> 00:01:00,280
+some discussion, and sometimes a quiz to allow
+you to check what you've learned.
+
+17
+00:01:00,280 --> 00:01:04,210
+We hope you will find the course useful, and
+we welcome on any feedback you have on how
+
+18
+00:01:04,210 --> 00:01:05,790
+to make it better.
+
+19
+00:01:05,790 --> 00:01:07,540
+Once you're ready, let's get started.
+

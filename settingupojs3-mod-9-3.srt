@@ -1,0 +1,385 @@
+1
+00:00:04,890 --> 00:00:09,580
+Welcome back to module nine of setting
+up a journal with OJS 3.0 workflow
+
+2
+00:00:09,580 --> 00:00:13,260
+settings.
+This is unit 3 of this module review.
+
+3
+00:00:13,260 --> 00:00:18,070
+This section controls the parameters of
+the submission review process, including
+
+4
+00:00:18,070 --> 00:00:22,330
+deadlines, forms, peer review parameters
+and guidelines and policies regarding
+
+5
+00:00:22,330 --> 00:00:26,560
+competing interests. The review
+guidelines are not visible on the public
+
+6
+00:00:26,560 --> 00:00:30,789
+website and are used by editors and
+reviewers working on submissions within
+
+7
+00:00:30,789 --> 00:00:35,350
+the dashboard. That process is discussed
+in detail in the editing a journal with
+
+8
+00:00:35,350 --> 00:00:41,380
+OJS 3.0 course. Let's take a look at
+setting up these features. To access the
+
+9
+00:00:41,380 --> 00:00:44,410
+review settings page, go to your
+dashboard using the link at the top
+
+10
+00:00:44,410 --> 00:00:47,700
+right hand corner of your page.
+
+11
+00:00:50,460 --> 00:00:56,660
+Hover over settings in the left hand
+navigation and select workflow.
+
+12
+00:00:58,660 --> 00:01:03,870
+Review is the third tab along the top of
+the new window.
+
+13
+00:01:05,580 --> 00:01:09,870
+Your first prompt is regarding the
+setting of review deadlines. You can
+
+14
+00:01:09,870 --> 00:01:13,590
+choose to set a time limit defining how
+many weeks a reviewer has to either
+
+15
+00:01:13,590 --> 00:01:18,480
+accept or decline a request to review a
+submission and how many weeks they have
+
+16
+00:01:18,480 --> 00:01:22,620
+to complete their review of that
+submission. If you choose to add limited
+
+17
+00:01:22,620 --> 00:01:26,910
+timeframes be sure to include them in
+the review guidelines below so that your
+
+18
+00:01:26,910 --> 00:01:31,490
+reviewers are aware of these policies
+and deadlines.
+
+19
+00:01:33,920 --> 00:01:39,360
+Following, you have the ability to set
+automated email reminders. We'll talk
+
+20
+00:01:39,360 --> 00:01:43,920
+about the content of these emails in
+module nine unit five. Automated
+
+21
+00:01:43,920 --> 00:01:47,940
+reminders require some configuration by
+your site administrator. But once the
+
+22
+00:01:47,940 --> 00:01:51,990
+task is completed, these grayed out boxes
+will be active and you can use the
+
+23
+00:01:51,990 --> 00:01:56,750
+drop-down menus to select the reminder
+email schedule.
+
+24
+00:01:58,659 --> 00:02:02,200
+Review forms are used by reviewers to
+help structure their feedback on
+
+25
+00:02:02,200 --> 00:02:06,969
+submissions forms are entirely in the
+control of journal managers and are
+
+26
+00:02:06,969 --> 00:02:12,160
+created in a two-step process, beginning
+with create review form in the top right
+
+27
+00:02:12,160 --> 00:02:14,819
+corner of the box.
+
+28
+00:02:16,810 --> 00:02:20,950
+Give your new form a title and then
+complete a brief description and
+
+29
+00:02:20,950 --> 00:02:25,050
+instructions for use. click Save.
+
+30
+00:02:33,550 --> 00:02:38,180
+To add items to your form, click on the
+expansion arrow beside the title and
+
+31
+00:02:38,180 --> 00:02:40,900
+click Edit.
+
+32
+00:02:42,490 --> 00:02:47,110
+In the pop-up wizard, the data we just
+entered in the create window will all be
+
+33
+00:02:47,110 --> 00:02:52,120
+located in the first tab. It can be
+edited here as well click on the second
+
+34
+00:02:52,120 --> 00:02:55,350
+tab form items.
+
+35
+00:02:56,030 --> 00:03:00,110
+In this section, we'll create items to be
+included in the form by clicking on
+
+36
+00:03:00,110 --> 00:03:03,280
+create new item.
+
+37
+00:03:03,590 --> 00:03:07,849
+The rich text editor gives you lots of
+space and flexibility in crafting each
+
+38
+00:03:07,849 --> 00:03:10,780
+of your form items.
+
+39
+00:03:13,050 --> 00:03:17,190
+After you define them, you have the
+option to make this items completion a
+
+40
+00:03:17,190 --> 00:03:21,450
+required action. You can also elect to
+inform the submission author through an
+
+41
+00:03:21,450 --> 00:03:25,860
+automated email if this form is going to
+be used to review their submission. Item
+
+42
+00:03:25,860 --> 00:03:29,820
+type refers to the kind of response the
+reviewer will be able to make to this
+
+43
+00:03:29,820 --> 00:03:35,310
+checklist item such as to enter a short
+text blurb or tick a box. Using the
+
+44
+00:03:35,310 --> 00:03:39,300
+drop-down menu, select the item type that
+facilitates the appropriate response to
+
+45
+00:03:39,300 --> 00:03:42,260
+your checklist item.
+
+46
+00:03:44,050 --> 00:03:47,920
+If you want your reviewer to select a
+response from a list of preset options
+
+47
+00:03:47,920 --> 00:03:52,990
+such as to select whether the submission
+is ready for publication, needs to be
+
+48
+00:03:52,990 --> 00:03:57,820
+revised or should be rejected, you can
+set these options using the response
+
+49
+00:03:57,820 --> 00:04:03,300
+options. To add a response option click
+add item.
+
+50
+00:04:12,510 --> 00:04:16,730
+When you've completed the form, click
+Save.
+
+51
+00:04:16,730 --> 00:04:21,080
+If you need to edit the items or you
+want to remove it, click on the expansion
+
+52
+00:04:21,080 --> 00:04:25,390
+arrow to expose the edit and delete
+buttons.
+
+53
+00:04:25,790 --> 00:04:30,860
+Repeat this process for every item you
+wish to add to the form the third tab in
+
+54
+00:04:30,860 --> 00:04:36,020
+the wizard is the preview form.
+Clicking on it will show you what your
+
+55
+00:04:36,020 --> 00:04:38,030
+review form will look like to those
+using it.
+
+56
+00:04:38,030 --> 00:04:42,500
+This can help you tweak the item type
+and ensure that the form you're creating
+
+57
+00:04:42,500 --> 00:04:47,120
+matches with your use intentions of the
+form. To close the wizard, return to the
+
+58
+00:04:47,120 --> 00:04:54,130
+review form tab
+and click Save at the bottom. When your
+
+59
+00:04:54,130 --> 00:04:59,520
+form is ready to be used
+be sure to check the active button.
+
+60
+00:05:01,889 --> 00:05:06,539
+If your Journal is using blind review,
+enable the function to send relevant
+
+61
+00:05:06,539 --> 00:05:10,620
+instructions and information. Clicking on
+the hyperlink text will open a window
+
+62
+00:05:10,620 --> 00:05:14,939
+with more information about this feature.
+Competing interest is an area where you
+
+63
+00:05:14,939 --> 00:05:18,960
+can define your journals competing
+interest disclosure policy. It is a rich
+
+64
+00:05:18,960 --> 00:05:23,279
+text editor and you can customize this
+section as best serves you. If you
+
+65
+00:05:23,279 --> 00:05:28,819
+require a competing interest statement
+from the reviewer, tick this box.
+
+66
+00:05:29,700 --> 00:05:33,810
+The review guideline section is a space
+in which you can define what is expected
+
+67
+00:05:33,810 --> 00:05:37,800
+of your reviewers provide them with
+review criteria to help them assess the
+
+68
+00:05:37,800 --> 00:05:41,820
+submission and any guidelines or
+policies that would help reviewers
+
+69
+00:05:41,820 --> 00:05:47,400
+complete their work such as that
+deadlines to accept review or the
+
+70
+00:05:47,400 --> 00:05:52,320
+deadline to submit their review. It is a
+rich text editor and you can complete it
+
+71
+00:05:52,320 --> 00:05:57,730
+as best suits your journal.
+Following you can select whether the
+
+72
+00:05:57,730 --> 00:06:02,790
+review process will be double-blind,
+blind or open using the drop-down menu.
+
+73
+00:06:02,790 --> 00:06:09,100
+Finally, we come to reviewer access which tweaks how and when reviewers can access
+
+74
+00:06:09,100 --> 00:06:13,510
+submissions they have been asked to review.
+If you would like to either enable one,
+
+75
+00:06:13,510 --> 00:06:17,830
+click review access or stipulate that
+reviewers must agree to review before
+
+76
+00:06:17,830 --> 00:06:22,900
+they are able to access submission files.
+Tick the appropriate boxes. When you've
+
+77
+00:06:22,900 --> 00:06:27,370
+completed the settings to your
+satisfaction, click Save. This concludes
+
+78
+00:06:27,370 --> 00:06:31,300
+our overview of the review workflow
+settings. Thanks for watching and we'll
+
+79
+00:06:31,300 --> 00:06:34,320
+see you again in the next module.
+

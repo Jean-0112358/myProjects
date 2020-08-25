@@ -1,0 +1,229 @@
+1
+00:00:04,340 --> 00:00:09,390
+Hello, welcome back to setting up a
+journal with OTS 3.0. This is module 3
+
+2
+00:00:09,390 --> 00:00:14,550
+the reader interface. In this video I
+will take you on a brief tour of what
+
+3
+00:00:14,550 --> 00:00:18,990
+your OJS publication will look like from
+your readers perspective. We'll start on
+
+4
+00:00:18,990 --> 00:00:21,810
+the landing page and then move through
+all the different sections so that you
+
+5
+00:00:21,810 --> 00:00:25,560
+can see what kind of information is
+stored where, what your readers will be
+
+6
+00:00:25,560 --> 00:00:31,380
+able to access and how that access that
+information. Let's dive in. The URL of
+
+7
+00:00:31,380 --> 00:00:35,370
+your journal leads to the splash page. As
+you can see, there is a top-level
+
+8
+00:00:35,370 --> 00:00:39,450
+horizontal navigation bar that contains
+the most important content access points
+
+9
+00:00:39,450 --> 00:00:44,810
+and a sidebar of more specialized
+information. The main body of the page
+
+10
+00:00:44,810 --> 00:00:52,950
+populates dynamically with journal
+issues as they are published. You can
+
+11
+00:00:52,950 --> 00:00:57,590
+also create permanent content such as
+this welcome message.
+
+12
+00:00:59,080 --> 00:01:03,530
+The current tab will bring you to the
+most recently published volume of your
+
+13
+00:01:03,530 --> 00:01:07,460
+journal. As you can see, this page
+displays the volume and issue
+
+14
+00:01:07,460 --> 00:01:12,380
+information of the publication. The cover
+image, if one exists, and access to the
+
+15
+00:01:12,380 --> 00:01:22,870
+content of the issue. The content of this
+example issue is split into two sections,
+
+16
+00:01:22,870 --> 00:01:29,660
+articles and reviews. From this table of
+contents, we can also see titles, authors
+
+17
+00:01:29,660 --> 00:01:37,640
+and different formats in which the
+content can be accessed. Clicking on the
+
+18
+00:01:37,640 --> 00:01:41,000
+title of an article brings you to the
+detail page where you'll see the
+
+19
+00:01:41,000 --> 00:01:46,250
+articles abstract and citation
+information. By clicking on the format of
+
+20
+00:01:46,250 --> 00:01:51,080
+your choice you can also read the
+article. Here's an example of the PDF reader.
+
+21
+00:01:53,659 --> 00:02:03,650
+This article is also available in XML
+and in HTML.
+
+22
+00:02:07,430 --> 00:02:12,680
+The archives tab provides access to all
+previously published volumes of the
+
+23
+00:02:12,680 --> 00:02:18,860
+journal and a brief description of each
+one. Clicking through on the issue will
+
+24
+00:02:18,860 --> 00:02:22,460
+bring you to that table of contents,
+which outlines the contents of the issue
+
+25
+00:02:22,460 --> 00:02:31,100
+and provides access to that content. The
+about tab, when clicked on, brings the
+
+26
+00:02:31,100 --> 00:02:36,050
+reader to a broad about the journal page.
+The content of this page is entirely
+
+27
+00:02:36,050 --> 00:02:41,440
+publisher created and it can contain as
+much or as little information as you'd like.
+
+28
+00:02:43,520 --> 00:02:48,780
+Hovering over the about tab opens a
+drop-down menu listing other items that
+
+29
+00:02:48,780 --> 00:02:55,939
+may be of interest, including the
+editorial team, submissions and contact.
+
+30
+00:02:56,840 --> 00:03:01,680
+The editorial team tab contains as much
+or as little information as you decide
+
+31
+00:03:01,680 --> 00:03:05,489
+and is a space in which you can
+introduce the members of your editorial
+
+32
+00:03:05,489 --> 00:03:15,569
+team. The submissions page gives general guidelines about making submissions to
+
+33
+00:03:15,569 --> 00:03:23,459
+the journal and is a portal that can be
+used to make submissions. Contact
+
+34
+00:03:23,459 --> 00:03:26,970
+information contains the address of the
+journal, information for the principal
+
+35
+00:03:26,970 --> 00:03:30,480
+contact of the editorial staff and
+contact information for the journal web
+
+36
+00:03:30,480 --> 00:03:37,920
+instant support person. Finally, there is
+a search bar which can be used to run
+
+37
+00:03:37,920 --> 00:03:44,609
+keyword searches for content on your
+website. Clicking on your journal title
+
+38
+00:03:44,609 --> 00:03:49,709
+will bring you back to the splash page.
+The content in the side navigation menu
+
+39
+00:03:49,709 --> 00:03:52,949
+is something that you will determine for
+your journal and we'll look at that more
+
+40
+00:03:52,949 --> 00:03:57,329
+in module 8. This example contains the
+information block which is a series of
+
+41
+00:03:57,329 --> 00:04:01,109
+short information pages tailored to the
+interests of specific user groups as
+
+42
+00:04:01,109 --> 00:04:08,540
+well as information about PKP hosting
+and a link to more information about OJS.
+
+43
+00:04:08,540 --> 00:04:12,660
+Nearly everything we've seen on the
+website today is customizable and I'll
+
+44
+00:04:12,660 --> 00:04:16,530
+walk you through that process in the
+subsequent modules. This concludes our
+
+45
+00:04:16,530 --> 00:04:20,639
+introductory tour of what readers
+encounter when navigating around at OJS
+
+46
+00:04:20,639 --> 00:04:26,389
+publication website. Thanks for watching,
+we'll see you again in the next module.
+

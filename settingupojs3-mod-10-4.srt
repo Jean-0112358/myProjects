@@ -1,0 +1,154 @@
+1
+00:00:04,050 --> 00:00:09,190
+Hello, welcome back to module 10 of
+setting up your journal with OJS 3.0.
+
+2
+00:00:09,190 --> 00:00:15,070
+This is unit 4 of distribution settings
+permissions. In this section, we'll
+
+3
+00:00:15,070 --> 00:00:18,789
+configure settings around copyright and
+licensing of materials submitted to and
+
+4
+00:00:18,789 --> 00:00:23,290
+published by your journal. To access
+permissions, login to your dashboard
+
+5
+00:00:23,290 --> 00:00:27,630
+through the top right corner of your
+journal home page.
+
+6
+00:00:31,280 --> 00:00:37,550
+Hover over settings in the left
+navigation and select distribution.
+
+7
+00:00:40,780 --> 00:00:45,760
+Permissions is the fourth tab in the new
+frame.
+
+8
+00:00:47,539 --> 00:00:51,780
+The first section of the page is a rich
+text editor for your copyright notice.
+
+9
+00:00:51,780 --> 00:00:55,980
+The copyright notice is meant to inform
+regarding the underlying claim to
+
+10
+00:00:55,980 --> 00:01:01,710
+copyright ownership in a published work.
+In other words, use this section to
+
+11
+00:01:01,710 --> 00:01:06,060
+inform those interacting with your
+journal about who owns the copyright to
+
+12
+00:01:06,060 --> 00:01:12,080
+materials published in your journal.
+If you require authors agree to the
+
+13
+00:01:12,080 --> 00:01:17,320
+copyright notice as part of the
+submissions process, tick this box.
+
+14
+00:01:18,240 --> 00:01:22,979
+OJS will automatically generate
+copyright notices on each item published
+
+15
+00:01:22,979 --> 00:01:27,810
+in your journal and the following two
+items configure that setting. Firstly,
+
+16
+00:01:27,810 --> 00:01:32,759
+indicate whether copyright year is based
+on the issue publication or the article
+
+17
+00:01:32,759 --> 00:01:35,539
+publication date.
+
+18
+00:01:36,210 --> 00:01:42,630
+Secondly, indicate who the copyright
+holder of the materials will be.
+
+19
+00:01:44,050 --> 00:01:48,050
+Licensing differs from copyright because
+it defines how material can be used
+
+20
+00:01:48,050 --> 00:01:53,300
+rather than who has legal ownership of
+the materials. Using the drop-down menu,
+
+21
+00:01:53,300 --> 00:01:57,380
+indicate what type of usage license
+should be applied to the materials in
+
+22
+00:01:57,380 --> 00:02:01,490
+your journal. The drop-down menu is
+pre-populated with the different types
+
+23
+00:02:01,490 --> 00:02:05,900
+of Creative Commons licenses. But if you
+are using a different license, select
+
+24
+00:02:05,900 --> 00:02:09,590
+other and provide a URL to the license
+if one is available.
+
+25
+00:02:09,590 --> 00:02:13,790
+Finally, copyright and licensing
+information is permanently attached to
+
+26
+00:02:13,790 --> 00:02:18,050
+your published content. If for some
+reason you need to reset the stored
+
+27
+00:02:18,050 --> 00:02:22,340
+permissions to update information, you
+can use the reset article permissions
+
+28
+00:02:22,340 --> 00:02:26,540
+button at the bottom of this page to
+create a rollback across all
+
+29
+00:02:26,540 --> 00:02:32,680
+pre-existing content. When you've
+completed the settings click Save.
+
+30
+00:02:34,460 --> 00:02:37,670
+This concludes our overview of the
+different elements of the distribution
+
+31
+00:02:37,670 --> 00:02:43,360
+settings. Thanks for watching and we'll
+see you again in the next module.
+

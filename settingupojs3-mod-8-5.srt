@@ -1,0 +1,174 @@
+1
+00:00:03,790 --> 00:00:09,349
+Hello, welcome back to module eight of
+setting up a journal with OJS 3.0. This
+
+2
+00:00:09,349 --> 00:00:14,990
+is unit five of website settings
+plugins. OJS 3.0 supports a huge number
+
+3
+00:00:14,990 --> 00:00:18,470
+of plugins to help customize your
+journals features. In this unit, I'll
+
+4
+00:00:18,470 --> 00:00:21,950
+demonstrate how to activate desired
+plugins and tell you a little bit about
+
+5
+00:00:21,950 --> 00:00:28,340
+some of the most commonly used plugins.
+To access your website plugin gallery, go
+
+6
+00:00:28,340 --> 00:00:33,160
+to your dashboard through the link in
+the top right corner of your home page.
+
+7
+00:00:36,920 --> 00:00:43,190
+From the left-hand navigation, hover over
+settings and select website.
+
+8
+00:00:45,550 --> 00:00:51,280
+Plugins is the fifth tab of the website settings section.
+
+9
+00:00:52,940 --> 00:00:58,770
+The plugins tab is split into install
+plugin and the plugin gallery. Install
+
+10
+00:00:58,770 --> 00:01:02,519
+plugins are all plugins that are
+embedded in the default OJS installation
+
+11
+00:01:02,519 --> 00:01:07,770
+and will also contain any further
+plugins you decide to add. Let's begin by
+
+12
+00:01:07,770 --> 00:01:10,729
+exploring this page.
+
+13
+00:01:11,850 --> 00:01:16,330
+The install plugins are sorted into
+categories to help make it easier to
+
+14
+00:01:16,330 --> 00:01:20,830
+find what you're looking for. The table
+displays the name of the plugin, a brief
+
+15
+00:01:20,830 --> 00:01:25,180
+description and a checkbox indicating
+whether or not the plugin is currently
+
+16
+00:01:25,180 --> 00:01:30,460
+enabled. Some plugins are essential to
+the running of OJS and you'll see that
+
+17
+00:01:30,460 --> 00:01:34,780
+those ones are enabled and greyed out so
+you're unable to accidentally disable
+
+18
+00:01:34,780 --> 00:01:41,910
+them. Other plugins, you'll be able to
+enable or disable as suits you.
+
+19
+00:01:44,650 --> 00:01:49,690
+The block plugins section, for example,
+mirrors what we set as our website
+
+20
+00:01:49,690 --> 00:01:55,060
+sidebar back in unit 1 of this module
+website appearances. This is the back end
+
+21
+00:01:55,060 --> 00:02:00,180
+way of enabling or disabling those same
+content blocks.
+
+22
+00:02:04,510 --> 00:02:08,600
+Further down the page we'll find other
+common plugins that have been enabled
+
+23
+00:02:08,600 --> 00:02:12,540
+for your site, but that you could disable if you chose to.
+
+24
+00:02:15,780 --> 00:02:20,230
+Some useful plugins you may want to
+consider enabling include the orchid
+
+25
+00:02:20,230 --> 00:02:25,180
+profile plugin and the google analytics
+plugin, both of which are located in the
+
+26
+00:02:25,180 --> 00:02:31,870
+generic plugins section of the page. We
+highly recommend taking your time going
+
+27
+00:02:31,870 --> 00:02:35,560
+through this page and taking advantage
+of the plug-in options to customize and
+
+28
+00:02:35,560 --> 00:02:38,520
+enhance your journal.
+
+29
+00:02:41,400 --> 00:02:45,400
+Should you discover there's a feature
+you need that isn't already installed in
+
+30
+00:02:45,400 --> 00:02:49,540
+your OJS instance, head over to the
+second tab on this page the plugin
+
+31
+00:02:49,540 --> 00:02:51,840
+gallery.
+
+32
+00:02:52,300 --> 00:02:56,890
+In this gallery, you can find additional
+plugins that could be installed on your
+
+33
+00:02:56,890 --> 00:03:01,420
+journal. Again, I encourage you to explore.
+If there are any plugins that look
+
+34
+00:03:01,420 --> 00:03:05,640
+promising, click through on the hyperlink
+names and follow the instructions. That
+
+35
+00:03:05,640 --> 00:03:10,030
+concludes our overview of the website
+plugins. Thanks for watching and we'll
+
+36
+00:03:10,030 --> 00:03:13,080
+see you again in the next module.
+
